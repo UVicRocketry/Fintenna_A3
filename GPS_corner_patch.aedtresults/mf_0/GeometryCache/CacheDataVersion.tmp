@@ -1,0 +1,13 @@
+$begin 'CacheDataVersion'
+	DataVersion=218
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	$length='45.13mm'
+	$width='45.13mm'
+	$indent_length='11.412526034937mm'
+	$indent_clearance='1mm'
+	$indent_width='2.95mm'
+	$roffset='2mm'
+	$radius='77mm'
+	$corner_length='3mm'
+$end 'VariableValues'

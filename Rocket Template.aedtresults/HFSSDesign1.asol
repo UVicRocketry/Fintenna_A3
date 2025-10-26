@@ -1,0 +1,133 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002025, month=000000000010, day=000000000020, hour=000000000010, min=000000000025, sec=000000000011)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000005469, lin=000000000111, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign1'
+	VersionID=10863
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=10921
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='', ID=27)
+		Map(V='$indent_clearance=\'5mm\' $indent_length=\'20mm\' $indent_width=\'3mm\' $length=\'80mm\' $width=\'40mm\'', ID=10862)
+		Map(V='$length=\'0.081909999999999997meter\'', ID=6284)
+		Map(V='$length=\'61.432499999999997mm\'', ID=9624)
+		Map(V='$length=\'69.623499999999993mm\'', ID=9745)
+		Map(V='$length=\'87.234149999999985mm\'', ID=9121)
+		Map(V='$length=\'87.479879999999994mm\'', ID=9216)
+		Map(V='$length=\'87.643699999999995mm\'', ID=8824)
+		Map(V='$length=\'876.4369999999999mm\'', ID=8821)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	MeshAssemVersionID=760
+	$begin 'NextAssemVersionID'
+		NextUniqueID=761
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MI'
+	$end 'MI'
+	VersionID2=10864
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=24, Instance=\'SetupDefinition\', Solution=-1, VersionID=10863)'='SolutionBlock290'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=25, VersionID=10863)'='SolutionBlock287'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=26, VersionID=10863)'='SolutionBlock288'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=30, VersionID=10863)'='SolutionBlock289'
+$end 'BlockMapName'
+$begin 'SolutionBlock287'
+	SolutionName='AdaptivePass'
+	SolutionID=25
+	V=10863
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+$end 'SolutionBlock287'
+$begin 'SolutionBlock288'
+	SolutionName='LastAdaptive'
+	SolutionID=26
+	V=10863
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+$end 'SolutionBlock288'
+$begin 'SolutionBlock289'
+	SolutionName='Sweep'
+	SolutionID=30
+	V=10863
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(500000000, 505882352.9411765, 511764705.8823529, 517647058.8235294, 523529411.7647059, 529411764.7058824, 535294117.6470588, 541176470.5882353, 547058823.5294118, 552941176.4705882, 558823529.4117647, 564705882.3529412, 570588235.2941177, 576470588.2352941, 582352941.1764705, 588235294.1176471, 594117647.0588236, 600000000, 605882352.9411764, 611764705.8823529, 617647058.8235294, 623529411.7647059, 629411764.7058823, 635294117.6470588, 641176470.5882353, 647058823.5294118, 652941176.4705882, 658823529.4117647, 664705882.3529412, 670588235.2941177, 676470588.2352941, 682352941.1764705, 688235294.1176471, 694117647.0588236, 700000000, 705882352.9411764, 711764705.8823529, 717647058.8235294, 723529411.7647059, 729411764.7058823, 735294117.6470588, 741176470.5882353, 747058823.5294118, 752941176.4705882, 758823529.4117646, 764705882.3529412, 770588235.2941177, 776470588.2352941, 782352941.1764705, 788235294.1176471, 794117647.0588236, 800000000, 805882352.9411764, 811764705.8823529, 817647058.8235295, 823529411.7647059, 829411764.7058823, 835294117.6470587, 841176470.5882353, 847058823.5294118, 852941176.4705882, 858823529.4117646, 864705882.3529412, 870588235.2941177, 876470588.2352941, 882352941.1764705, 888235294.1176471, 894117647.0588236, 900000000, 905882352.9411764, 911764705.8823529, 917647058.8235295, 923529411.7647059, 929411764.7058823, 935294117.6470587, 941176470.5882353, 947058823.5294118, 952941176.4705882, 958823529.4117646, 964705882.3529412, 970588235.2941177, 976470588.2352941, 982352941.1764705, 988235294.1176471, 994117647.0588236, 1000000000, 1005882352.941176, 1011764705.882353, 1017647058.823529, 1023529411.764706, 1029411764.705882, 1035294117.647059, 1041176470.588235, 1047058823.529412, 1052941176.470588, 1058823529.411765, 1064705882.352941, 1070588235.294118, 1076470588.235294, 1082352941.176471, 1088235294.117647, 1094117647.058824, 1100000000, 1105882352.941176, 1111764705.882353, 1117647058.823529, 1123529411.764706, 1129411764.705882, 1135294117.647059, 1141176470.588235, 1147058823.529412, 1152941176.470588, 1158823529.411765, 1164705882.352941, 1170588235.294117, 1176470588.235294, 1182352941.176471, 1188235294.117647, 1194117647.058824, 1200000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=0
+	KeepAllFastSweepFields=false
+$end 'SolutionBlock289'
+$begin 'SolutionBlock290'
+	SimSetupID=24
+	SimSetupName='Setup1'
+	VersionID=10863
+	IsImported=false
+	IsTable=false
+	SolveSetupID=0
+	MeshAssemVersionID=741
+	$begin 'NextAssemVersionID'
+		NextUniqueID=742
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'ADP'
+	$end 'ADP'
+	$begin 'SU'
+	$end 'SU'
+	$begin 'MI'
+	$end 'MI'
+$end 'SolutionBlock290'
+$begin '$index$'
+	$begin '$index$'
+		SolutionBlock287(pos=1834, lin=38, lvl=0)
+		SolutionBlock288(pos=2196, lin=56, lvl=0)
+		SolutionBlock289(pos=2558, lin=74, lvl=0)
+		SolutionBlock290(pos=5120, lin=92, lvl=0)
+		SolutionBlock1(pos=370, lin=1, lvl=0)
+		BlockMapName(pos=1326, lin=31, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=5469, lin=111, lvl=0)
+	$end '$index$'
+$end '$index$'
+                                           

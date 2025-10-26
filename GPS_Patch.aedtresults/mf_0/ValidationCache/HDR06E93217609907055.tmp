@@ -1,0 +1,17 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$corner_length=\'3mm\' $indent_clearance=\'1mm\' $indent_length=\'0.11412526034937001mm\' $indent_width=\'2.9500000000000002mm\' $length=\'45.130000000000003mm\' $radius=\'77mm\' $roffset=\'2mm\' $width=\'45.130000000000003mm\''
+		Status=true
+		FileName='VI60B33217610077783.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$corner_length=\'3mm\' $indent_clearance=\'1mm\' $indent_length=\'11.4125260349368mm\' $indent_width=\'2.9500000000000002mm\' $length=\'45.130000000000003mm\' $radius=\'77mm\' $roffset=\'2mm\' $width=\'45.130000000000003mm\''
+		Status=true
+		FileName='VI7E0432176100004222.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$corner_length=\'3mm\' $indent_clearance=\'1mm\' $indent_length=\'11.4125260349368mm\' $indent_width=\'2.9500000000000002mm\' $length=\'45.130000000000003mm\' $radius=\'77mm\' $roffset=\'2mm\' $width=\'57.960000000000001mm\''
+		Status=true
+		FileName='VI74FC3217609993344.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

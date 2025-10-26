@@ -1,0 +1,17 @@
+$begin 'imprintInfo'
+	FileVersion='2025R2'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(1325, 'Box10', -1, 6, 1327, 1328, 1331, 1330, 1326, 1329)
+		Part(1353, 'Cylinder2', -1, 35, 1665, 1666, 1667, 1668, 1669, 1670, 1671, 1672, 1673, 1674, 1675, 1676, 1677, 1678, 1679, 1680, 1681, 1682, 1683, 1684, 1685, 1686, 1687, 1688, 1689, 1690, 1691, 1692, 1693, 1694, 1695, 1696, 1664, 1663, 1857)
+		Part(1479, 'Box13', -1, 6, 1481, 1484, 1483, 1482, 1480, 1485)
+		Part(1861, 'Box14', -1, 6, 1863, 1864, 1867, 1866, 1862, 1865)
+		Part(1973, 'Box18', -1, 14, 1974, 1976, 1977, 1975, 1979, 2031, 2032, 1950, 1951, 1949, 1895, 1892, 1920, 1921)
+		Part(2038, 'Rectangle1', -1, 1, 2048)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'

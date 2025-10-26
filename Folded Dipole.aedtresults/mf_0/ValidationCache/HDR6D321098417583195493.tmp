@@ -1,0 +1,27 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$length=\'0.081909999999999997meter\''
+		Status=true
+		FileName='VI10A88368175943614371.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$length=\'0.089999999999999997meter\''
+		Status=true
+		FileName='VI6FCA3088175945363532.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$length=\'90mm\''
+		Status=true
+		FileName='VI04E93088175945529144.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$length=\'91mm\''
+		Status=true
+		FileName='VI09843088175945565261.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$length=\'92mm\''
+		Status=true
+		FileName='VI0D1A3088175945593372.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$corner_length=\'3mm\' $indent_clearance=\'1mm\' $indent_length=\'11.412526034937001mm\' $indent_width=\'2.9500000000000002mm\' $length=\'45.130000000000003mm\' $radius=\'77mm\' $roffset=\'2mm\' $width=\'45.130000000000003mm\''
+		Status=true
+		FileName='VI3FE63217610955163.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
