@@ -1,0 +1,17 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$Indent=\'10mm\' $length=\'28mm\' $width=\'28mm\''
+		Status=true
+		FileName='VI0451141801761723010103.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Indent=\'10mm\' $length=\'30mm\' $width=\'30mm\''
+		Status=true
+		FileName='VI065F141801761723171113.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Indent=\'10mm\' $length=\'32mm\' $width=\'32mm\''
+		Status=true
+		FileName='VI7A9614180176172224790.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
