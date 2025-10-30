@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'5.5mm\' $PlaneWidth=\'10mm\' $Radius=\'73mm\' $RadLen=\'56mm\' $StubLen=\'15mm\''
+		Status=true
+		FileName='VI55A44916176185983245.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

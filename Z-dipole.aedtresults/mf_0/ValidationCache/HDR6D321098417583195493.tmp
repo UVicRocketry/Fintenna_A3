@@ -1,2 +1,7 @@
 $begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$length=\'67.664783977006579mm\' $poffset=\'37mm\''
+		Status=true
+		FileName='VI2D722072176180650967.tmp'
+	$end 'OneValidationResult'
 $end 'ValidationCache'

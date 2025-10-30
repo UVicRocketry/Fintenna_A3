@@ -1,0 +1,10 @@
+$begin 'CacheDataVersion'
+	DataVersion=-1
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	$Radius='73mm'
+	$StubLen='15mm'
+	$RadLen='56mm'
+	$FeedGap='5.5mm'
+	$PlaneWidth='10mm'
+$end 'VariableValues'
