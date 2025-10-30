@@ -41,46 +41,6 @@ $begin 'InterrogationCache'
 				Valid=true
 			$end 'BoundingBox'
 		$end '1892'
-		$begin '2221'
-			$begin 'BoundingBox'
-				Low[3: -62.5, 73, -0.83499999999999996]
-				High[3: 50, 113.00000000000001, -0.80000000000000004]
-				Exact=true
-				Valid=true
-			$end 'BoundingBox'
-		$end '2221'
-		$begin '2309'
-			$begin 'BoundingBox'
-				Low[3: 3.7499999999999978, 78, 0.80000000000000004]
-				High[3: 33.75, 108, 0.83499999999999996]
-				Exact=true
-				Valid=true
-			$end 'BoundingBox'
-		$end '2309'
-		$begin '2357'
-			$begin 'BoundingBox'
-				Low[3: 18.25, 92.499999999999986, -0.83499999999999996]
-				High[3: 19.25, 93.499999999999986, 0.83499999999999996]
-				Exact=true
-				Valid=true
-			$end 'BoundingBox'
-		$end '2357'
-		$begin '2417'
-			$begin 'BoundingBox'
-				Low[3: 18.285, 92.534999999999982, -0.83499999999999996]
-				High[3: 19.215, 93.464999999999989, 0.83499999999999996]
-				Exact=true
-				Valid=true
-			$end 'BoundingBox'
-		$end '2417'
-		$begin '2440'
-			$begin 'BoundingBox'
-				Low[3: 17.25, 73, -0.83499999999999996]
-				High[3: 20.25, 93.999999999999986, -0.7999999999999996]
-				Exact=true
-				Valid=true
-			$end 'BoundingBox'
-		$end '2440'
 	$end 'BodyCaches'
 	$begin 'IntersectionCaches'
 	$end 'IntersectionCaches'
