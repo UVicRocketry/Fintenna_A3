@@ -1,0 +1,264 @@
+SimValueCacheVersionID=1
+$begin 'SimValueInfos'
+	NextUniqueID=17
+	MoveBackwards=false
+	$begin 'SimValue'
+		ID=0
+		$begin 'SimValueParams'
+			QuantityName='GainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=1
+		$begin 'SimValueParams'
+			QuantityName='St(RadElement_T1,RadElement_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=2
+		$begin 'SimValueParams'
+			QuantityName='VSWRt(RadElement_T1)'
+			ValueState(90, 15, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=3
+		$begin 'SimValueParams'
+			QuantityName='SystemGainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=4
+		$begin 'SimValueParams'
+			QuantityName='Zt(RadElement_T1,RadElement_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=5
+		$begin 'SimValueParams'
+			QuantityName='Yt(RadElement_T1,RadElement_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=6
+		$begin 'SimValueParams'
+			QuantityName='Zot(RadElement_T1,RadElement_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=7
+		$begin 'SimValueParams'
+			QuantityName='Matrix_S_Parameter'
+			ValueState(90, 15, 1, 8)
+			MatrixSize(1, 1)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=8
+		$begin 'SimValueParams'
+			QuantityName='Passivity'
+			ValueState(90, 15, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=9
+		$begin 'SimValueParams'
+			QuantityName='Volume(Substrate)'
+			ValueState(788, 14, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=10
+		$begin 'SimValueParams'
+			QuantityName='rETotal'
+			ValueState(67, 9, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=11
+		$begin 'SimValueParams'
+			QuantityName='DirTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=12
+		$begin 'SimValueParams'
+			QuantityName='RealizedGainTotal'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=13
+		$begin 'SimValueParams'
+			QuantityName='AxialRatioValue'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=14
+		$begin 'SimValueParams'
+			QuantityName='PolarizationRatioCircularLHCP'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=15
+		$begin 'SimValueParams'
+			QuantityName='PeakDirectivity'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=16
+		$begin 'SimValueParams'
+			QuantityName='RadiationEfficiency'
+			ValueState(90, 15, 0, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+$end 'SimValueInfos'
+$begin 'SimValueCache'
+	$begin 'DesignMap'
+		DesignID=0
+		$begin 'SolutionMap'
+			$begin 'ContextMap'
+				SolutionID=25
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=26
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=30
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=15278
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=16317
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=16318
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=9
+						SimValueContext(0, 0, 2, 0, false, false, 69, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=17032
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'30mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min4B9518940176195938742.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min4D3118940176195951355.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'10mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min4EE318940176195964668.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'10mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min505718940176195976081.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'18mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min521A18940176195989894.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'16mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min556E189401761960159107.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 69, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=17032
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'30mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min4B9518940176195938743.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min4D3118940176195951356.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'10mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min4EE318940176195964669.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'10mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min505718940176195976082.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'18mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min521A18940176195989895.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'16mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min556E189401761960159108.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=16321
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=1
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=17032
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'30mm\''
+							MinorCacheFile='min4B9518940176195938744.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\''
+							MinorCacheFile='min4D3118940176195951357.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'10mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\''
+							MinorCacheFile='min4EE318940176195964670.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'18mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\''
+							MinorCacheFile='min521A18940176195989896.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$FeedGap=\'16mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\''
+							MinorCacheFile='min556E189401761960159109.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
+			$end 'ContextMap'
+		$end 'SolutionMap'
+	$end 'DesignMap'
+$end 'SimValueCache'

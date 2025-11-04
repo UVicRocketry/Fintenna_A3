@@ -1,0 +1,42 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'10mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\''
+		Status=true
+		FileName='VI4EE018940176195964566.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'10mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'18mm\''
+		Status=true
+		FileName='VI01E193001761953609128.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'10mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\''
+		Status=true
+		FileName='VI4D2D18940176195951253.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'24mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'18mm\''
+		Status=true
+		FileName='VI44181894017619588006.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'30mm\''
+		Status=true
+		FileName='VI48F418940176195918131.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\''
+		Status=true
+		FileName='VI515C18940176195984092.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'64mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'18mm\''
+		Status=true
+		FileName='VI7F9F93001761953432114.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$FeedGap=\'18mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'59mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'25mm\''
+		Status=true
+		FileName='VI505418940176195975979.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

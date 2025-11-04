@@ -1,0 +1,126 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002025, month=000000000011, day=000000000002, hour=000000000017, min=000000000057, sec=000000000013)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000006808, lin=000000000104, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=117, Instance=\'SetupDefinition\', Solution=-1, VersionID=217)'='SolutionBlock9'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=118, VersionID=217)'='SolutionBlock6'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=119, VersionID=217)'='SolutionBlock7'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=123, VersionID=217)'='SolutionBlock8'
+$end 'BlockMapName'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign3'
+	VersionID=217
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=295
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'6mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=120)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=213)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	MeshAssemVersionID=114
+	$begin 'NextAssemVersionID'
+		NextUniqueID=115
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MI'
+	$end 'MI'
+	VersionID2=218
+$end 'SolutionBlock1'
+$begin 'SolutionBlock6'
+	SolutionName='AdaptivePass'
+	SolutionID=118
+	V=217
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+$end 'SolutionBlock6'
+$begin 'SolutionBlock7'
+	SolutionName='LastAdaptive'
+	SolutionID=119
+	V=217
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+$end 'SolutionBlock7'
+$begin 'SolutionBlock8'
+	SolutionName='Sweep'
+	SolutionID=123
+	V=217
+	$begin 'States'
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(700000000, 702010050.2512562, 704020100.5025126, 706030150.7537688, 708040201.0050251, 710050251.2562814, 712060301.5075377, 714070351.758794, 716080402.0100503, 718090452.2613065, 720100502.5125629, 722110552.7638191, 724120603.0150753, 726130653.2663317, 728140703.5175879, 730150753.7688442, 732160804.0201005, 734170854.2713568, 736180904.522613, 738190954.7738694, 740201005.0251256, 742211055.276382, 744221105.5276382, 746231155.7788944, 748241206.0301508, 750251256.281407, 752261306.5326633, 754271356.7839196, 756281407.0351759, 758291457.2864321, 760301507.5376885, 762311557.7889447, 764321608.0402009, 766331658.2914573, 768341708.5427135, 770351758.7939699, 772361809.0452261, 774371859.2964824, 776381909.5477387, 778391959.798995, 780402010.0502512, 782412060.3015076, 784422110.5527638, 786432160.8040202, 788442211.0552764, 790452261.3065326, 792462311.557789, 794472361.8090452, 796482412.0603015, 798492462.3115578, 800502512.5628141, 802512562.8140703, 804522613.0653267, 806532663.3165829, 808542713.5678391, 810552763.8190955, 812562814.0703517, 814572864.3216081, 816582914.5728643, 818592964.8241206, 820603015.0753769, 822613065.3266332, 824623115.5778894, 826633165.8291457, 828643216.080402, 830653266.3316584, 832663316.5829146, 834673366.8341708, 836683417.0854272, 838693467.3366834, 840703517.5879397, 842713567.839196, 844723618.0904522, 846733668.3417085, 848743718.5929649, 850753768.8442211, 852763819.0954773, 854773869.3467337, 856783919.5979899, 858793969.8492463, 860804020.1005025, 862814070.3517588, 864824120.6030151, 866834170.8542714, 868844221.1055276, 870854271.3567839, 872864321.6080402, 874874371.8592966, 876884422.1105528, 878894472.361809, 880904522.6130654, 882914572.8643216, 884924623.1155779, 886934673.3668342, 888944723.6180904, 890954773.8693467, 892964824.1206031, 894974874.3718593, 896984924.6231155, 898994974.8743719, 901005025.1256281, 903015075.3768845, 905025125.6281407, 907035175.879397, 909045226.1306533, 911055276.3819096, 913065326.6331658, 915075376.8844221, 917085427.1356784, 919095477.3869348, 921105527.638191, 923115577.8894472, 925125628.1407036, 927135678.3919598, 929145728.6432161, 931155778.8944724, 933165829.1457286, 935175879.3969849, 937185929.6482413, 939195979.8994975, 941206030.1507537, 943216080.4020101, 945226130.6532663, 947236180.9045227, 949246231.1557789, 951256281.4070352, 953266331.6582915, 955276381.9095478, 957286432.160804, 959296482.4120603, 961306532.6633166, 963316582.9145728, 965326633.1658292, 967336683.4170854, 969346733.6683416, 971356783.919598, 973366834.1708543, 975376884.4221106, 977386934.6733668, 979396984.9246231, 981407035.1758795, 983417085.4271357, 985427135.6783919, 987437185.9296483, 989447236.1809045, 991457286.4321609, 993467336.6834171, 995477386.9346733, 997487437.1859297, 999497487.437186, 1001507537.688442, 1003517587.939698, 1005527638.190955, 1007537688.442211, 1009547738.693467, 1011557788.944724, 1013567839.19598, 1015577889.447236, 1017587939.698493, 1019597989.949749, 1021608040.201005, 1023618090.452261, 1025628140.703518, 1027638190.954774, 1029648241.20603, 1031658291.457286, 1033668341.708543, 1035678391.959799, 1037688442.211055, 1039698492.462312, 1041708542.713568, 1043718592.964824, 1045728643.21608, 1047738693.467337, 1049748743.718593, 1051758793.969849, 1053768844.221106, 1055778894.472362, 1057788944.723618, 1059798994.974874, 1061809045.226131, 1063819095.477387, 1065829145.728643, 1067839195.9799, 1069849246.231156, 1071859296.482412, 1073869346.733668, 1075879396.984925, 1077889447.236181, 1079899497.487437, 1081909547.738693, 1083919597.98995, 1085929648.241206, 1087939698.492462, 1089949748.743719, 1091959798.994975, 1093969849.246231, 1095979899.497488, 1097989949.748744, 1100000000)
+		SolutionType=5
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=0
+	KeepAllFastSweepFields=false
+$end 'SolutionBlock8'
+$begin 'SolutionBlock9'
+	SimSetupID=117
+	SimSetupName='Setup1'
+	VersionID=217
+	IsImported=false
+	IsTable=false
+	SolveSetupID=0
+	MeshAssemVersionID=4
+	$begin 'NextAssemVersionID'
+		NextUniqueID=5
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'ADP'
+	$end 'ADP'
+	$begin 'SU'
+	$end 'SU'
+	$begin 'MI'
+	$end 'MI'
+$end 'SolutionBlock9'
+$begin '$index$'
+	$begin '$index$'
+		SolutionBlock6(pos=1651, lin=31, lvl=0)
+		SolutionBlock7(pos=2008, lin=49, lvl=0)
+		SolutionBlock8(pos=2365, lin=67, lvl=0)
+		SolutionBlock9(pos=6468, lin=85, lvl=0)
+		SolutionBlock1(pos=869, lin=8, lvl=0)
+		BlockMapName(pos=370, lin=1, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=6808, lin=104, lvl=0)
+	$end '$index$'
+$end '$index$'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

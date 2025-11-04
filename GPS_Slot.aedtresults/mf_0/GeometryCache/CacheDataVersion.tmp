@@ -1,0 +1,12 @@
+$begin 'CacheDataVersion'
+	DataVersion=-1
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	$Radius='73mm'
+	$Length='32mm'
+	$Width='34mm'
+	$Indent='10mm'
+	$XOffset='2.25*25mm+(50mm-$Width)/2'
+	$YOffset='5mm'
+	$ChamferSize='13mm'
+$end 'VariableValues'

@@ -1,0 +1,822 @@
+$begin 'RFSM'
+	$begin 'RadSurfs'
+	$end 'RadSurfs'
+	$begin 'CustomSurfs'
+	$end 'CustomSurfs'
+	$begin 'SetupSolns'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=26, VersID=13805, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'32mm\' $XOffset=\'65.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4500000000000002GHz\'')
+			SetupSolnFBOFile='431E27041762119273601.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=26, VersID=13805, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4500000000000002GHz\'')
+			SetupSolnFBOFile='4DAA27041762120100828.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2GHz\'')
+			SetupSolnFBOFile='4A4927041762119835696.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0101010101010099GHz\'')
+			SetupSolnFBOFile='4A4927041762119835697.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0202020202020199GHz\'')
+			SetupSolnFBOFile='4A4627041762119834695.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0303030303030298GHz\'')
+			SetupSolnFBOFile='4A4227041762119833694.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0404040404040402GHz\'')
+			SetupSolnFBOFile='4A1B27041762119821693.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0505050505050502GHz\'')
+			SetupSolnFBOFile='49F727041762119810692.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0606060606060601GHz\'')
+			SetupSolnFBOFile='49F127041762119808691.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0707070707070701GHz\'')
+			SetupSolnFBOFile='49ED27041762119807690.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.08080808080808GHz\'')
+			SetupSolnFBOFile='49DD27041762119802689.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0909090909090899GHz\'')
+			SetupSolnFBOFile='49A627041762119785687.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1010101010100999GHz\'')
+			SetupSolnFBOFile='49AC27041762119787688.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1111111111111098GHz\'')
+			SetupSolnFBOFile='49A227041762119784686.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1212121212121202GHz\'')
+			SetupSolnFBOFile='499227041762119779685.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1313131313131302GHz\'')
+			SetupSolnFBOFile='495A27041762119762684.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1414141414141401GHz\'')
+			SetupSolnFBOFile='495727041762119761683.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.15151515151515GHz\'')
+			SetupSolnFBOFile='495427041762119760682.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.16161616161616GHz\'')
+			SetupSolnFBOFile='494727041762119756681.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1717171717171699GHz\'')
+			SetupSolnFBOFile='490227041762119735680.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1818181818181799GHz\'')
+			SetupSolnFBOFile='48FF27041762119734679.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1919191919191898GHz\'')
+			SetupSolnFBOFile='48FC27041762119733678.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2020202020202002GHz\'')
+			SetupSolnFBOFile='48F227041762119730677.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2121212121212102GHz\'')
+			SetupSolnFBOFile='48B127041762119710676.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2222222222222201GHz\'')
+			SetupSolnFBOFile='48AD27041762119709675.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2323232323232305GHz\'')
+			SetupSolnFBOFile='48A727041762119707674.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.24242424242424GHz\'')
+			SetupSolnFBOFile='48A027041762119705673.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2525252525252499GHz\'')
+			SetupSolnFBOFile='486227041762119686672.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2626262626262599GHz\'')
+			SetupSolnFBOFile='485F27041762119685671.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2727272727272698GHz\'')
+			SetupSolnFBOFile='485C27041762119684670.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2828282828282798GHz\'')
+			SetupSolnFBOFile='484F27041762119680669.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2929292929292902GHz\'')
+			SetupSolnFBOFile='481727041762119663668.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3030303030303001GHz\'')
+			SetupSolnFBOFile='481427041762119662667.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.31313131313131GHz\'')
+			SetupSolnFBOFile='481127041762119661666.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.32323232323232GHz\'')
+			SetupSolnFBOFile='480727041762119658665.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3333333333333304GHz\'')
+			SetupSolnFBOFile='47CC27041762119640664.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3434343434343399GHz\'')
+			SetupSolnFBOFile='47C927041762119639663.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3535353535353498GHz\'')
+			SetupSolnFBOFile='47C627041762119638662.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3636363636363602GHz\'')
+			SetupSolnFBOFile='47BC27041762119635661.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3737373737373701GHz\'')
+			SetupSolnFBOFile='478127041762119617660.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3838383838383796GHz\'')
+			SetupSolnFBOFile='477E27041762119616659.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.39393939393939GHz\'')
+			SetupSolnFBOFile='477E27041762119616658.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4040404040404GHz\'')
+			SetupSolnFBOFile='477127041762119612657.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4141414141414099GHz\'')
+			SetupSolnFBOFile='473627041762119594656.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4242424242424199GHz\'')
+			SetupSolnFBOFile='473627041762119594655.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4343434343434303GHz\'')
+			SetupSolnFBOFile='473327041762119593654.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4444444444444402GHz\'')
+			SetupSolnFBOFile='472627041762119589653.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4545454545454501GHz\'')
+			SetupSolnFBOFile='46EE27041762119572652.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4646464646464601GHz\'')
+			SetupSolnFBOFile='46EB27041762119571651.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.47474747474747GHz\'')
+			SetupSolnFBOFile='46E727041762119570650.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4848484848484795GHz\'')
+			SetupSolnFBOFile='46DE27041762119567649.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4949494949494899GHz\'')
+			SetupSolnFBOFile='469C27041762119547648.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5050505050505101GHz\'')
+			SetupSolnFBOFile='469927041762119546647.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5151515151515205GHz\'')
+			SetupSolnFBOFile='469627041762119545646.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.52525252525253GHz\'')
+			SetupSolnFBOFile='464727041762119521643.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5353535353535399GHz\'')
+			SetupSolnFBOFile='467F27041762119538645.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5454545454545499GHz\'')
+			SetupSolnFBOFile='464B27041762119522644.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5555555555555598GHz\'')
+			SetupSolnFBOFile='464727041762119521642.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5656565656565697GHz\'')
+			SetupSolnFBOFile='45FC27041762119498640.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5757575757575801GHz\'')
+			SetupSolnFBOFile='463A27041762119517641.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5858585858585901GHz\'')
+			SetupSolnFBOFile='45F927041762119497639.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5959595959596GHz\'')
+			SetupSolnFBOFile='45F927041762119497638.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.60606060606061GHz\'')
+			SetupSolnFBOFile='45EF27041762119494637.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6161616161616204GHz\'')
+			SetupSolnFBOFile='45A727041762119472636.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6262626262626299GHz\'')
+			SetupSolnFBOFile='45A427041762119471635.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6363636363636398GHz\'')
+			SetupSolnFBOFile='45A127041762119470634.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6464646464646502GHz\'')
+			SetupSolnFBOFile='458427041762119461633.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6565656565656601GHz\'')
+			SetupSolnFBOFile='455627041762119447632.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6666666666666696GHz\'')
+			SetupSolnFBOFile='455327041762119446631.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.67676767676768GHz\'')
+			SetupSolnFBOFile='454F27041762119445630.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.68686868686869GHz\'')
+			SetupSolnFBOFile='454927041762119443629.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6969696969696999GHz\'')
+			SetupSolnFBOFile='450B27041762119424628.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7070707070707098GHz\'')
+			SetupSolnFBOFile='450727041762119423627.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7171717171717202GHz\'')
+			SetupSolnFBOFile='450427041762119422626.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7272727272727302GHz\'')
+			SetupSolnFBOFile='44FE27041762119420625.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7373737373737401GHz\'')
+			SetupSolnFBOFile='44C027041762119401624.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7474747474747501GHz\'')
+			SetupSolnFBOFile='44BC27041762119400623.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.75757575757576GHz\'')
+			SetupSolnFBOFile='44BC27041762119400622.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7676767676767695GHz\'')
+			SetupSolnFBOFile='44B327041762119397621.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7777777777777799GHz\'')
+			SetupSolnFBOFile='447427041762119378620.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7878787878787898GHz\'')
+			SetupSolnFBOFile='447427041762119378619.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7979797979797998GHz\'')
+			SetupSolnFBOFile='447127041762119377618.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8080808080808102GHz\'')
+			SetupSolnFBOFile='446727041762119374617.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8181818181818201GHz\'')
+			SetupSolnFBOFile='442327041762119353616.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8282828282828301GHz\'')
+			SetupSolnFBOFile='442327041762119353615.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.83838383838384GHz\'')
+			SetupSolnFBOFile='442027041762119352614.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.84848484848485GHz\'')
+			SetupSolnFBOFile='43D827041762119330612.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8585858585858599GHz\'')
+			SetupSolnFBOFile='441927041762119350613.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8686868686868698GHz\'')
+			SetupSolnFBOFile='43D827041762119330611.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8787878787878798GHz\'')
+			SetupSolnFBOFile='43D427041762119329610.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8888888888888902GHz\'')
+			SetupSolnFBOFile='43CE27041762119327609.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8989898989899001GHz\'')
+			SetupSolnFBOFile='438327041762119304608.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9090909090909101GHz\'')
+			SetupSolnFBOFile='438027041762119303607.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.91919191919192GHz\'')
+			SetupSolnFBOFile='437C27041762119302606.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9292929292929299GHz\'')
+			SetupSolnFBOFile='437C27041762119302605.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9393939393939399GHz\'')
+			SetupSolnFBOFile='432B27041762119277604.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9494949494949498GHz\'')
+			SetupSolnFBOFile='432727041762119276603.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9595959595959598GHz\'')
+			SetupSolnFBOFile='432427041762119275602.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9696969696969702GHz\'')
+			SetupSolnFBOFile='42F327041762119260600.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9797979797979801GHz\'')
+			SetupSolnFBOFile='42D227041762119250599.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9898989898989901GHz\'')
+			SetupSolnFBOFile='42CF27041762119249597.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'3GHz\'')
+			SetupSolnFBOFile='42D227041762119250598.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2GHz\'')
+			SetupSolnFBOFile='505827041762120310909.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0101010101010099GHz\'')
+			SetupSolnFBOFile='505827041762120310908.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0202020202020199GHz\'')
+			SetupSolnFBOFile='505127041762120308907.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0303030303030298GHz\'')
+			SetupSolnFBOFile='505127041762120308906.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0404040404040402GHz\'')
+			SetupSolnFBOFile='504E27041762120307905.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0505050505050502GHz\'')
+			SetupSolnFBOFile='503427041762120299904.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0606060606060601GHz\'')
+			SetupSolnFBOFile='503127041762120298903.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0707070707070701GHz\'')
+			SetupSolnFBOFile='502E27041762120297902.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.08080808080808GHz\'')
+			SetupSolnFBOFile='501327041762120289901.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.0909090909090899GHz\'')
+			SetupSolnFBOFile='501027041762120288900.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1010101010100999GHz\'')
+			SetupSolnFBOFile='500D27041762120287899.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1111111111111098GHz\'')
+			SetupSolnFBOFile='500D27041762120287898.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1212121212121202GHz\'')
+			SetupSolnFBOFile='4FF327041762120279897.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1313131313131302GHz\'')
+			SetupSolnFBOFile='4FEF27041762120278896.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1414141414141401GHz\'')
+			SetupSolnFBOFile='4FE927041762120276895.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.15151515151515GHz\'')
+			SetupSolnFBOFile='4FE927041762120276894.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.16161616161616GHz\'')
+			SetupSolnFBOFile='4FE627041762120275893.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1717171717171699GHz\'')
+			SetupSolnFBOFile='4FCC27041762120267892.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1818181818181799GHz\'')
+			SetupSolnFBOFile='4FC827041762120266891.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.1919191919191898GHz\'')
+			SetupSolnFBOFile='4FC527041762120265890.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2020202020202002GHz\'')
+			SetupSolnFBOFile='4FB127041762120259889.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2121212121212102GHz\'')
+			SetupSolnFBOFile='4FA827041762120256888.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2222222222222201GHz\'')
+			SetupSolnFBOFile='4FA427041762120255887.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2323232323232305GHz\'')
+			SetupSolnFBOFile='4FA127041762120254886.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.24242424242424GHz\'')
+			SetupSolnFBOFile='4FA127041762120254885.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2525252525252499GHz\'')
+			SetupSolnFBOFile='4F8427041762120245884.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2626262626262599GHz\'')
+			SetupSolnFBOFile='4F8027041762120244883.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2727272727272698GHz\'')
+			SetupSolnFBOFile='4F8027041762120244882.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2828282828282798GHz\'')
+			SetupSolnFBOFile='4F7D27041762120243881.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.2929292929292902GHz\'')
+			SetupSolnFBOFile='4F6327041762120235880.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3030303030303001GHz\'')
+			SetupSolnFBOFile='4F6027041762120234879.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.31313131313131GHz\'')
+			SetupSolnFBOFile='4F5D27041762120233878.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.32323232323232GHz\'')
+			SetupSolnFBOFile='4F5927041762120232877.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3333333333333304GHz\'')
+			SetupSolnFBOFile='4F3F27041762120224876.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3434343434343399GHz\'')
+			SetupSolnFBOFile='4F3C27041762120223875.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3535353535353498GHz\'')
+			SetupSolnFBOFile='4F3927041762120222874.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3636363636363602GHz\'')
+			SetupSolnFBOFile='4F3927041762120222873.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3737373737373701GHz\'')
+			SetupSolnFBOFile='4F1F27041762120214872.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.3838383838383796GHz\'')
+			SetupSolnFBOFile='4F1B27041762120213871.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.39393939393939GHz\'')
+			SetupSolnFBOFile='4F1827041762120212870.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4040404040404GHz\'')
+			SetupSolnFBOFile='4F1527041762120211869.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4141414141414099GHz\'')
+			SetupSolnFBOFile='4EFB27041762120203868.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4242424242424199GHz\'')
+			SetupSolnFBOFile='4EF727041762120202867.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4343434343434303GHz\'')
+			SetupSolnFBOFile='4EF427041762120201866.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4444444444444402GHz\'')
+			SetupSolnFBOFile='4EF127041762120200865.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4545454545454501GHz\'')
+			SetupSolnFBOFile='4ED727041762120192864.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4646464646464601GHz\'')
+			SetupSolnFBOFile='4ED327041762120191863.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.47474747474747GHz\'')
+			SetupSolnFBOFile='4ED027041762120190862.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4848484848484795GHz\'')
+			SetupSolnFBOFile='4ED027041762120190861.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.4949494949494899GHz\'')
+			SetupSolnFBOFile='4EB327041762120181860.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5050505050505101GHz\'')
+			SetupSolnFBOFile='4EAF27041762120180859.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5151515151515205GHz\'')
+			SetupSolnFBOFile='4EAF27041762120180858.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.52525252525253GHz\'')
+			SetupSolnFBOFile='4EAC27041762120179857.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5353535353535399GHz\'')
+			SetupSolnFBOFile='4E9227041762120171856.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5454545454545499GHz\'')
+			SetupSolnFBOFile='4E8F27041762120170855.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5555555555555598GHz\'')
+			SetupSolnFBOFile='4E8C27041762120169854.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5656565656565697GHz\'')
+			SetupSolnFBOFile='4E8827041762120168853.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5757575757575801GHz\'')
+			SetupSolnFBOFile='4E6E27041762120160852.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5858585858585901GHz\'')
+			SetupSolnFBOFile='4E6B27041762120159851.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.5959595959596GHz\'')
+			SetupSolnFBOFile='4E6827041762120158850.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.60606060606061GHz\'')
+			SetupSolnFBOFile='4E6427041762120157849.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6161616161616204GHz\'')
+			SetupSolnFBOFile='4E4A27041762120149848.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6262626262626299GHz\'')
+			SetupSolnFBOFile='4E4A27041762120149847.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6363636363636398GHz\'')
+			SetupSolnFBOFile='4E4427041762120147846.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6464646464646502GHz\'')
+			SetupSolnFBOFile='4E4427041762120147845.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6565656565656601GHz\'')
+			SetupSolnFBOFile='4E2A27041762120139844.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6666666666666696GHz\'')
+			SetupSolnFBOFile='4E2627041762120138843.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.67676767676768GHz\'')
+			SetupSolnFBOFile='4E2327041762120137842.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.68686868686869GHz\'')
+			SetupSolnFBOFile='4E2027041762120136841.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.6969696969696999GHz\'')
+			SetupSolnFBOFile='4E0627041762120128840.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7070707070707098GHz\'')
+			SetupSolnFBOFile='4E0227041762120127839.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7171717171717202GHz\'')
+			SetupSolnFBOFile='4DFF27041762120126838.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7272727272727302GHz\'')
+			SetupSolnFBOFile='4DFC27041762120125837.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7373737373737401GHz\'')
+			SetupSolnFBOFile='4DE227041762120117836.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7474747474747501GHz\'')
+			SetupSolnFBOFile='4DDE27041762120116835.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.75757575757576GHz\'')
+			SetupSolnFBOFile='4DDE27041762120116834.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7676767676767695GHz\'')
+			SetupSolnFBOFile='4DDB27041762120115833.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7777777777777799GHz\'')
+			SetupSolnFBOFile='4DC127041762120107832.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7878787878787898GHz\'')
+			SetupSolnFBOFile='4DBE27041762120106831.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.7979797979797998GHz\'')
+			SetupSolnFBOFile='4DBB27041762120105830.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8080808080808102GHz\'')
+			SetupSolnFBOFile='4DB727041762120104829.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8181818181818201GHz\'')
+			SetupSolnFBOFile='4D9D27041762120096827.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8282828282828301GHz\'')
+			SetupSolnFBOFile='4D9A27041762120095826.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.83838383838384GHz\'')
+			SetupSolnFBOFile='4D9727041762120094825.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.84848484848485GHz\'')
+			SetupSolnFBOFile='4D9327041762120093824.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8585858585858599GHz\'')
+			SetupSolnFBOFile='4D7927041762120085823.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8686868686868698GHz\'')
+			SetupSolnFBOFile='4D7627041762120084822.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8787878787878798GHz\'')
+			SetupSolnFBOFile='4D7327041762120083821.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8888888888888902GHz\'')
+			SetupSolnFBOFile='4D6F27041762120082820.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.8989898989899001GHz\'')
+			SetupSolnFBOFile='4D5927041762120075819.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9090909090909101GHz\'')
+			SetupSolnFBOFile='4D5527041762120074818.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.91919191919192GHz\'')
+			SetupSolnFBOFile='4D4F27041762120072817.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9292929292929299GHz\'')
+			SetupSolnFBOFile='4D3527041762120064815.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9393939393939399GHz\'')
+			SetupSolnFBOFile='4D4F27041762120072816.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9494949494949498GHz\'')
+			SetupSolnFBOFile='4D3127041762120063814.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9595959595959598GHz\'')
+			SetupSolnFBOFile='4D2E27041762120062813.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9696969696969702GHz\'')
+			SetupSolnFBOFile='4D2B27041762120061812.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9797979797979801GHz\'')
+			SetupSolnFBOFile='4D0D27041762120052811.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'2.9898989898989901GHz\'')
+			SetupSolnFBOFile='4D0A27041762120051809.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=81, ParentID=30, VersID=13611, Context='[0:0]', DesVarn='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\'', IntrVarn='Freq=\'3GHz\'')
+			SetupSolnFBOFile='4D0D27041762120052810.tmp'
+		$end 'SetupSolnEntry'
+	$end 'SetupSolns'
+	$begin 'MonostaticRcsSolns'
+	$end 'MonostaticRcsSolns'
+	$begin 'ElementPatternCache'
+	$end 'ElementPatternCache'
+	$begin 'RadiatedPowerCaches'
+	$end 'RadiatedPowerCaches'
+$end 'RFSM'

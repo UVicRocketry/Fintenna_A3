@@ -1,0 +1,42 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$ChamferSize=\'13mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\''
+		Status=true
+		FileName='VI4C8827041762120011699.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'32mm\' $XOffset=\'65.25mm\' $YOffset=\'5mm\''
+		Status=true
+		FileName='VI3D8127041762118833550.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$ChamferSize=\'4mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'34mm\' $XOffset=\'64.25mm\' $YOffset=\'5mm\''
+		Status=true
+		FileName='VI41B627041762119163586.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$ChamferSize=\'5mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'32mm\' $XOffset=\'65.25mm\' $YOffset=\'5mm\''
+		Status=true
+		FileName='VI170127041762115815396.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$ChamferSize=\'6mm\' $Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'32mm\' $XOffset=\'65.25mm\' $YOffset=\'5mm\''
+		Status=true
+		FileName='VI38E627041762118472494.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Indent=\'10mm\' $Length=\'30mm\' $Radius=\'73mm\' $Width=\'30mm\' $XOffset=\'66.25mm\' $YOffset=\'5mm\''
+		Status=true
+		FileName='VI57D327041762110862189.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Indent=\'10mm\' $Length=\'32mm\' $Radius=\'73mm\' $Width=\'32mm\' $XOffset=\'65.25mm\' $YOffset=\'5mm\''
+		Status=true
+		FileName='VI598527041762110995233.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Indent=\'5mm\' $Length=\'30mm\' $Radius=\'73mm\' $Width=\'30mm\' $XOffset=\'66.25mm\' $YOffset=\'5mm\''
+		Status=true
+		FileName='VI55BB27041762110698159.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
