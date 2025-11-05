@@ -1,2 +1,7 @@
 $begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI6EC51458417622531423.tmp'
+	$end 'OneValidationResult'
 $end 'ValidationCache'
