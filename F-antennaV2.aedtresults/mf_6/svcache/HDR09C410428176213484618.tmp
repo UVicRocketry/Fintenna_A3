@@ -1,6 +1,6 @@
 SimValueCacheVersionID=1
 $begin 'SimValueInfos'
-	NextUniqueID=4
+	NextUniqueID=6
 	MoveBackwards=false
 	$begin 'SimValue'
 		ID=0
@@ -34,6 +34,22 @@ $begin 'SimValueInfos'
 			MatrixSize(0, 0)
 		$end 'SimValueParams'
 	$end 'SimValue'
+	$begin 'SimValue'
+		ID=4
+		$begin 'SimValueParams'
+			QuantityName='St(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=5
+		$begin 'SimValueParams'
+			QuantityName='VSWRt(1)'
+			ValueState(90, 15, 1, 1)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
 $end 'SimValueInfos'
 $begin 'SimValueCache'
 	$begin 'DesignMap'
@@ -44,9 +60,35 @@ $begin 'SimValueCache'
 			$end 'ContextMap'
 			$begin 'ContextMap'
 				SolutionID=119
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=3
+						SimValueContext(0, 0, 2, 0, false, false, 1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=1131
+						$begin 'MinorVVMap'
+							MajorVariation='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\' Freq=\'0.91500000000000004GHz\''
+							MinorCacheFile='min15F413916176435339534.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
 			$end 'ContextMap'
 			$begin 'ContextMap'
 				SolutionID=123
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=1
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=1131
+						$begin 'MinorVVMap'
+							MajorVariation='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+							MinorCacheFile='min15F413916176435339535.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
 			$end 'ContextMap'
 		$end 'SolutionMap'
 	$end 'DesignMap'
