@@ -1,7 +1,37 @@
 $begin 'ValidationCache'
 	$begin 'OneValidationResult'
-		Variation='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
 		Status=true
-		FileName='VI6EC51458417622531423.tmp'
+		FileName='VI5AA9193721766797131134.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI309819372176679383372.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI343119372176679411597.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI329519372176679398985.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI2D3D19372176679357051.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI2F1319372176679371461.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI27FF19372176679315938.tmp'
 	$end 'OneValidationResult'
 $end 'ValidationCache'

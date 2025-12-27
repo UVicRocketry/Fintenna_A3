@@ -1,97 +1,87 @@
 $begin '$base_index$'
   $begin 'properties'
     all_levels=000000000000
-    time(year=000000002025, month=000000000012, day=000000000001, hour=000000000022, min=000000000033, sec=000000000053)
+    time(year=000000002025, month=000000000012, day=000000000026, hour=000000000017, min=000000000025, sec=000000000055)
     version=000000000000
   $end 'properties'
   $begin '$base_index$'
-    $index$(pos=000000007438, lin=000000000116, lvl=000000000000)
+    $index$(pos=000000012774, lin=000000000232, lvl=000000000000)
   $end '$base_index$'
 $end '$base_index$'
-$begin 'SolutionBlock41'
+$begin 'SolutionBlock89'
 	SimSetupID=117
 	SimSetupName='Setup1'
-	VersionID=1356
+	VersionID=2450
+	$begin 'EmConvergenceData'
+		EmConv(VID=2304, Ver=2450, EmConv='DV2304_S117_V2450.EMConvData')
+	$end 'EmConvergenceData'
 	IsImported=false
 	IsTable=false
 	SolveSetupID=0
-	MeshAssemVersionID=208
+	$begin 'CurrMeshes'
+		M(VID=2304, Ver=2450, Dir='DV2304_S117_V2450.cmesh/')
+	$end 'CurrMeshes'
+	MeshAssemVersionID=321
 	$begin 'NextAssemVersionID'
-		NextUniqueID=209
+		NextUniqueID=322
 		MoveBackwards=false
 	$end 'NextAssemVersionID'
+	$begin 'CurrentMeshG3DErrorDir'
+		ME(VID=2304, Ver=2450, Dir='DV2304_S117_V2226.g3derr/')
+	$end 'CurrentMeshG3DErrorDir'
 	$begin 'ADP'
+		$begin 'SubData'
+			ID=4
+			ADP(VID=2304, Ver=2450, Dir='DV2304_S117_ADP4_V2450.sd/')
+		$end 'SubData'
 	$end 'ADP'
 	$begin 'SU'
+		$begin 'SubData'
+			ID=1
+			SU(VID=2304, Ver=2450, File='DV2304_S117_SD1_V2450.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			SU(VID=2304, Ver=2450, File='DV2304_S117_SD2_V2450.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			SU(VID=2304, Ver=2450, File='DV2304_S117_SD3_V2450.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			SU(VID=2304, Ver=2450, File='DV2304_S117_SD4_V2450.su')
+		$end 'SubData'
 	$end 'SU'
+	$begin 'WaveAdapt'
+		WA(VID=2304, Ver=2450, A=1)
+	$end 'WaveAdapt'
+	$begin 'LastPassNumbers'
+		LP(VID=2304, Ver=2450, P=4)
+	$end 'LastPassNumbers'
 	$begin 'Profiles'
-		P(VID=213, Ver=1356, File='DV213_S117_V1356.profile')
+		P(VID=2304, Ver=2450, File='DV2304_S117_V2450.profile')
 	$end 'Profiles'
 	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=2304, Ver=2450, Dir='DV2304_S117_MI0_V2450.sd/')
+		$end 'SubData'
 	$end 'MI'
-$end 'SolutionBlock41'
+$end 'SolutionBlock89'
 $begin 'BlockMapName'
 	FileHeader='SolutionBlock1'
-	'SolutionKey(SimSetup=117, Instance=\'SetupDefinition\', Solution=-1, VersionID=1356)'='SolutionBlock41'
-	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=118, VersionID=1356)'='SolutionBlock38'
-	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=119, VersionID=1356)'='SolutionBlock39'
-	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=123, VersionID=1356)'='SolutionBlock40'
+	'SolutionKey(SimSetup=117, Instance=\'SetupDefinition\', Solution=-1, VersionID=2450)'='SolutionBlock89'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=118, VersionID=2450)'='SolutionBlock86'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=119, VersionID=2450)'='SolutionBlock87'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=123, VersionID=2450)'='SolutionBlock88'
 $end 'BlockMapName'
-$begin 'SolutionBlock1'
-	ProductName=''
-	CircuitName='HFSSDesign3'
-	VersionID=1356
-	PostProcess=false
-	LossLess=true
-	NextUniqueID=1431
-	MoveBackwards=false
-	$begin 'VariationIDs'
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'20mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1284)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'6mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=120)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=213)
-	$end 'VariationIDs'
-	$begin 'LinkedDataList'
-	$end 'LinkedDataList'
-	MeshAssemVersionID=316
-	$begin 'NextAssemVersionID'
-		NextUniqueID=317
-		MoveBackwards=false
-	$end 'NextAssemVersionID'
-	$begin 'DefinitionMeshes'
-		$begin 'DefMeshes_Comp-1'
-			DefinitionID=-1
-			VersionID=315
-			VIDMap('$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $StubLen=\'20mm\'', 388)
-			DM(VID=388, Ver=315, Dir='NDV388_V315.dmesh/')
-		$end 'DefMeshes_Comp-1'
-	$end 'DefinitionMeshes'
-	$begin 'MI'
-	$end 'MI'
-	VersionID2=1357
-$end 'SolutionBlock1'
-$begin 'SolutionBlock38'
-	SolutionName='AdaptivePass'
-	SolutionID=118
-	V=1356
-	$begin 'States'
-	$end 'States'
-	$begin 'Definition'
-		SamplingInterpolation=false
-		Frequencies(915000000)
-		SolutionType=6
-		CenterFreq=0
-	$end 'Definition'
-	IsImported=false
-	IsTable=false
-	IsMatrixDataTable=false
-	SweepID=-1
-	KeepAllFastSweepFields=false
-$end 'SolutionBlock38'
-$begin 'SolutionBlock39'
+$begin 'SolutionBlock87'
 	SolutionName='LastAdaptive'
 	SolutionID=119
-	V=1356
+	V=2450
 	$begin 'States'
+		F(VID=2304, Ver=2450)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=false
@@ -104,12 +94,64 @@ $begin 'SolutionBlock39'
 	IsMatrixDataTable=false
 	SweepID=-1
 	KeepAllFastSweepFields=false
-$end 'SolutionBlock39'
-$begin 'SolutionBlock40'
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=2304, Ver=2450, File='DV2304_SOL119_M0_V2450.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		IDDblMap(1658, 915000000)
+		$begin 'DataMap'
+			VID=2304
+			Ver=2450
+			F(DblID=1658, Dir='DV2304_S119_V2450_F1658/')
+		$end 'DataMap'
+	$end 'Fields'
+$end 'SolutionBlock87'
+$begin 'SolutionBlock86'
+	SolutionName='AdaptivePass'
+	SolutionID=118
+	V=2450
+	$begin 'States'
+		F(VID=2304, Ver=2450)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=1
+			M(VID=2304, Ver=2450, File='DV2304_SOL118_M1_V2450.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			M(VID=2304, Ver=2450, File='DV2304_SOL118_M2_V2450.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			M(VID=2304, Ver=2450, File='DV2304_SOL118_M3_V2450.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			M(VID=2304, Ver=2450, File='DV2304_SOL118_M4_V2450.sd')
+		$end 'SubData'
+	$end 'M'
+$end 'SolutionBlock86'
+$begin 'SolutionBlock88'
 	SolutionName='Sweep'
 	SolutionID=123
-	V=1356
+	V=2450
 	$begin 'States'
+		F(VID=2304, Ver=2450)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=false
@@ -122,16 +164,90 @@ $begin 'SolutionBlock40'
 	IsMatrixDataTable=false
 	SweepID=0
 	KeepAllFastSweepFields=false
-$end 'SolutionBlock40'
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=2304, Ver=2450, File='DV2304_SOL123_M0_V2450.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'TransientSolveStauts'
+		SS(VID=2304, Ver=2450, SS=1)
+	$end 'TransientSolveStauts'
+	$begin 'SolverUsage'
+		IDDblMap(1891, 1100000000, 1892, 700000000, 1893, 900000000, 1894, 800000000, 1896, 1000000000, 1897, 850000000, 1898, 750000000, 1899, 950000000)
+		$begin 'DataMap'
+			VID=2304
+			Ver=2450
+			SU(DblID=1892, SU='DV2304_S123_V2450_F1892_SU.txt')
+			SU(DblID=1898, SU='DV2304_S123_V2450_F1898_SU.txt')
+			SU(DblID=1894, SU='DV2304_S123_V2450_F1894_SU.txt')
+			SU(DblID=1897, SU='DV2304_S123_V2450_F1897_SU.txt')
+			SU(DblID=1893, SU='DV2304_S123_V2450_F1893_SU.txt')
+			SU(DblID=1899, SU='DV2304_S123_V2450_F1899_SU.txt')
+			SU(DblID=1896, SU='DV2304_S123_V2450_F1896_SU.txt')
+			SU(DblID=1891, SU='DV2304_S123_V2450_F1891_SU.txt')
+		$end 'DataMap'
+	$end 'SolverUsage'
+$end 'SolutionBlock88'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign3'
+	VersionID=2226
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=2520
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='$BandSpacing=\'101.59999999999999mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2211)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2304)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1996)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2003)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2001)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1902)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1994)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'20mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1284)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'6mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=120)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=213)
+		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1900)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=2304, Ver=2226, Dir='DV2304_V2226.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=426
+	$begin 'NextAssemVersionID'
+		NextUniqueID=427
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MeshImprintMap'
+		MI(VID=2304, Ver=2226, MI='DV2304_V2226.Imprint.idmap')
+	$end 'MeshImprintMap'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=425
+			VIDMap('$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $StubLen=\'20mm\'', 2306, '$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $StubLen=\'20mm\'', 1997, '$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $StubLen=\'20mm\'', 2004, '$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $StubLen=\'20mm\'', 2002, '$Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $StubLen=\'20mm\'', 1991, '$Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $StubLen=\'20mm\'', 1995, '$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $StubLen=\'20mm\'', 388, '$Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $StubLen=\'20mm\'', 1901)
+			DM(VID=2306, Ver=425, Dir='NDV2306_V425.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=2304, Ver=2226, Dir='DV2304_MI0_V2226.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=2227
+$end 'SolutionBlock1'
 $begin '$index$'
 	$begin '$index$'
-		BlockMapName(pos=809, lin=23, lvl=0)
-		SolutionBlock38(pos=2612, lin=62, lvl=0)
-		SolutionBlock39(pos=2972, lin=80, lvl=0)
-		SolutionBlock40(pos=3332, lin=98, lvl=0)
-		SolutionBlock41(pos=370, lin=1, lvl=0)
-		SolutionBlock1(pos=1316, lin=30, lvl=0)
+		SolutionBlock1(pos=8959, lin=182, lvl=0)
+		BlockMapName(pos=1919, lin=62, lvl=0)
+		SolutionBlock86(pos=3104, lin=102, lvl=0)
+		SolutionBlock87(pos=2426, lin=69, lvl=0)
+		SolutionBlock88(pos=3922, lin=139, lvl=0)
+		SolutionBlock89(pos=370, lin=1, lvl=0)
 		$base_index$(pos=0, lin=1, lvl=0)
-		$index$(pos=7438, lin=116, lvl=0)
+		$index$(pos=12774, lin=232, lvl=0)
 	$end '$index$'
 $end '$index$'
