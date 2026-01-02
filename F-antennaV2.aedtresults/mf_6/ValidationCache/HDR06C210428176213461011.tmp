@@ -5,6 +5,106 @@ $begin 'ValidationCache'
 		FileName='VI5AA9193721766797131134.tmp'
 	$end 'OneValidationResult'
 	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI240614740176738487576.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI4608147401767387541186.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI3C60147401767386784151.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI21CB14740176738470065.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI43FA147401767387380173.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI1AEA14740176738416141.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI41AF147401767387200162.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI1E1E14740176738441252.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI5455147401767388662254.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'54mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI558E147401767388758266.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.25mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI11E8147401767393489421.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI0E0E147401767393187409.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.75mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI0948147401767392813382.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI0B73147401767392983396.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI06CF147401767392619368.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI5ABF147401767389165295.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI5D81147401767389381309.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI2CE0147401767385569100.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
+		Status=true
+		FileName='VI267914740176738506788.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI34A2147401767386177133.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
 		Variation='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\''
 		Status=true
 		FileName='VI309819372176679383372.tmp'
