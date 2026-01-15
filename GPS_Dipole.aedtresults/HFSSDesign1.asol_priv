@@ -1,0 +1,77 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002026, month=000000000001, day=000000000011, hour=000000000022, min=000000000032, sec=000000000018)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000000000, lin=000000000001, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign1'
+	VersionID=12702
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=13416
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='', ID=27)
+		Map(V='$AntennaOffset=\'5mm\' $ChamferSize=\'5mm\' $FeedWidth=\'3mm\' $Length=\'30mm\' $PortOffset=\'0mm\' $Radius=\'73mm\' $Width=\'30mm\'', ID=11570)
+		Map(V='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $width=\'16mm\'', ID=12878)
+		Map(V='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $RadLen=\'28mm\' $RadWidth=\'1.5mm\' $width=\'16mm\'', ID=12778)
+		Map(V='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $RadLen=\'30mm\' $RadWidth=\'1.5mm\' $width=\'16mm\'', ID=12694)
+		Map(V='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $RadLen=\'30mm\' $width=\'16mm\'', ID=12693)
+		Map(V='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $width=\'16mm\'', ID=11803)
+		Map(V='$indent_clearance=\'5mm\' $indent_length=\'20mm\' $indent_width=\'3mm\' $length=\'80mm\' $width=\'40mm\'', ID=10862)
+		Map(V='$length=\'0.081909999999999997meter\'', ID=6284)
+		Map(V='$length=\'61.432499999999997mm\'', ID=9624)
+		Map(V='$length=\'69.623499999999993mm\'', ID=9745)
+		Map(V='$length=\'87.234149999999985mm\'', ID=9121)
+		Map(V='$length=\'87.479879999999994mm\'', ID=9216)
+		Map(V='$length=\'87.643699999999995mm\'', ID=8824)
+		Map(V='$length=\'876.4369999999999mm\'', ID=8821)
+		Map(V='$Radius=\'73mm\'', ID=11253)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=12778, Ver=12702, Dir='DV12778_V12702.imesh/')
+		M(VID=12878, Ver=12702, Dir='DV12878_V12702.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=1152
+	$begin 'NextAssemVersionID'
+		NextUniqueID=1153
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MeshImprintMap'
+		MI(VID=12778, Ver=12702, MI='DV12778_V12702.Imprint.idmap')
+		MI(VID=12878, Ver=12702, MI='DV12878_V12702.Imprint.idmap')
+	$end 'MeshImprintMap'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=0
+			VIDMap('$Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\'', 12879, '$Radius=\'73mm\' $RadLen=\'28mm\' $RadWidth=\'1.5mm\'', 12842)
+			DM(VID=12842, Ver=0, Dir='NDV12842_V0.dmesh/')
+			DM(VID=12879, Ver=0, Dir='NDV12879_V0.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=12778, Ver=12702, Dir='DV12778_MI0_V12702.sd/')
+			MI(VID=12878, Ver=12702, Dir='DV12878_MI0_V12702.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=0
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=24, Instance=\'SetupDefinition\', Solution=-1, VersionID=12702)'='SolutionBlock367'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=12880, VersionID=0)'='SolutionBlock368'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=25, VersionID=12704)'='SolutionBlock364'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=26, VersionID=12704)'='SolutionBlock365'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=30, VersionID=12704)'='SolutionBlock366'
+$end 'BlockMapName'
