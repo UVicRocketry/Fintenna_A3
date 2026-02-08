@@ -1,0 +1,17 @@
+$begin 'imprintInfo'
+	FileVersion='2025R2'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(6, 'Substrate', -1, 6, 7, 9, 10, 11, 8, 12)
+		Part(34, 'Copper', -1, 18, 118, 119, 120, 38, 121, 122, 123, 124, 125, 126, 127, 128, 40, 129, 130, 131, 132, 133)
+		Part(179, 'Rectangle1', -1, 1, 189)
+		Part(191, 'Rectangle2', -1, 1, 201)
+		Part(203, 'Box1', -1, 6, 204, 206, 207, 208, 205, 209)
+		Part(231, 'Box2', -1, 10, 232, 234, 235, 236, 233, 237, 287, 288, 289, 290)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'

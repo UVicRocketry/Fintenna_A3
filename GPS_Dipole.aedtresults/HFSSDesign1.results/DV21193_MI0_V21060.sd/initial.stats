@@ -1,0 +1,14 @@
+           |     Num Tets | Min edge length | Max edge length | RMS edge length |     Min tet vol |     Max tet vol |    Mean tet vol |  Std Devn (vol)
+      1325 |          426 |         1.69809 |         48.4052 |         16.0469 |        0.033604 |         288.506 |         18.3099 |         35.2389
+      1353 |          369 |         8.11525 |             400 |         100.087 |        0.323256 |         2811.72 |         568.534 |         538.488
+      1479 |         1018 |         1.91976 |          400.91 |         95.4426 |      0.00886667 |          444382 |         15486.9 |         41943.2
+      2788 |          864 |         1.91976 |         76.4641 |         21.8124 |     7.20417e-05 |         408.398 |         19.1454 |         44.0196
+      6182 |          456 |        0.569845 |         40.3113 |         12.8237 |     0.000300149 |         3.40649 |        0.349089 |          0.5578
+         0 |          207 |         47.3324 |             440 |         226.476 |          216.14 |          161333 |         25584.5 |         29569.1
+NumTotalTets 3340
+NumBkTets 207
+User_Units mm
+mesh_fileset_version 2
+<PullPtStats>
+0 of 93 pts have not been pulled to true surface.
+</PullPtStats>
