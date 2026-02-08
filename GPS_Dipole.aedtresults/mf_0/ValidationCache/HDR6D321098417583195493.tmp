@@ -1,17 +1,7 @@
 $begin 'ValidationCache'
 	$begin 'OneValidationResult'
-		Variation='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $width=\'16mm\''
+		Variation='$FeedX=\'70mm\' $FeedY=\'30mm\' $LineGap=\'0.17600000000000002mm\' $LineWidth=\'0.88000000000000012mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'2mm\''
 		Status=true
-		FileName='VI421311904176463781611.tmp'
-	$end 'OneValidationResult'
-	$begin 'OneValidationResult'
-		Variation='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $RadLen=\'28mm\' $RadWidth=\'1.5mm\' $width=\'16mm\''
-		Status=true
-		FileName='VI2DBA9040176466632467.tmp'
-	$end 'OneValidationResult'
-	$begin 'OneValidationResult'
-		Variation='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $width=\'16mm\''
-		Status=true
-		FileName='VI578C9040176465956854.tmp'
+		FileName='VI01A013292177001118168.tmp'
 	$end 'OneValidationResult'
 $end 'ValidationCache'

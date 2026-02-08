@@ -5,12 +5,12 @@ $begin 'RFSM'
 	$end 'CustomSurfs'
 	$begin 'SetupSolns'
 		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=89, ParentID=26, VersID=12704, Context='[0:0]', DesVarn='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $width=\'16mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='578B1234017646394994.tmp'
+			Key(ParentID=69, VersID=93, ParentID=26, VersID=14025, Context='[0:0]', DesVarn='$FeedX=\'70mm\' $FeedY=\'30mm\' $LineGap=\'0.17600000000000002mm\' $LineWidth=\'0.88000000000000012mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'2mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='024013292177001123079.tmp'
 		$end 'SetupSolnEntry'
 		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=89, ParentID=26, VersID=12704, Context='[0:0]', DesVarn='$Indent=\'7mm\' $length=\'16mm\' $Radius=\'73mm\' $RadLen=\'28mm\' $RadWidth=\'1.5mm\' $width=\'16mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='40E711904176463772410.tmp'
+			Key(ParentID=69, VersID=93, ParentID=26, VersID=14025, Context='[0:0]', DesVarn='$FeedX=\'70mm\' $FeedY=\'30mm\' $LineGap=\'0.22mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'2mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='001513292177001106066.tmp'
 		$end 'SetupSolnEntry'
 	$end 'SetupSolns'
 	$begin 'MonostaticRcsSolns'

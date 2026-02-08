@@ -1,11 +1,12 @@
 $begin 'CacheDataVersion'
-	DataVersion=170
+	DataVersion=-1
 $end 'CacheDataVersion'
 $begin 'VariableValues'
 	$Radius='73mm'
-	$length='16mm'
-	$width='16mm'
-	$Indent='7mm'
 	$RadLen='26mm'
-	$RadWidth='1.5mm'
+	$RadWidth='2mm'
+	$FeedX='70mm'
+	$FeedY='30mm'
+	$LineWidth='(1.1*0.8) mm'
+	$LineGap='(0.22*0.8) mm'
 $end 'VariableValues'

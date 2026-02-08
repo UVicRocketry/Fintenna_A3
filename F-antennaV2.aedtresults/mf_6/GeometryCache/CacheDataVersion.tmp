@@ -1,0 +1,13 @@
+$begin 'CacheDataVersion'
+	DataVersion=94
+$end 'CacheDataVersion'
+$begin 'VariableValues'
+	$Radius='73mm'
+	$RadLen='51.5mm'
+	$StubLen='22mm'
+	$FeedGap='14.75mm'
+	$PlaneWidth='8mm'
+	$SizeMult='0.948646477327627'
+	$Chamfer='8mm'
+	$BandSpacing='(5*25.4) mm'
+$end 'VariableValues'
