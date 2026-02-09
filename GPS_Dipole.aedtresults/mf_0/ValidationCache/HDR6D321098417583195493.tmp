@@ -1,2 +1,17 @@
 $begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'67mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'65mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI77026608177058230736.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'68mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI70B46608177058181316.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'0deg\' $FeedOffset=\'14.128746239751701mm\' $FeedX=\'81.128746239751706mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'53.827996334239501mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI084A66081770583662101.tmp'
+	$end 'OneValidationResult'
 $end 'ValidationCache'
