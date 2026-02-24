@@ -1,99 +1,20 @@
 $begin '$base_index$'
   $begin 'properties'
     all_levels=000000000000
-    time(year=000000002026, month=000000000002, day=000000000008, hour=000000000018, min=000000000026, sec=000000000002)
+    time(year=000000002026, month=000000000002, day=000000000023, hour=000000000019, min=000000000033, sec=000000000044)
     version=000000000000
   $end 'properties'
   $begin '$base_index$'
-    $index$(pos=000000103524, lin=000000000551, lvl=000000000000)
+    $index$(pos=000000103575, lin=000000000552, lvl=000000000000)
   $end '$base_index$'
 $end '$base_index$'
-$begin 'SolutionBlock859'
-	SimSetupID=24
-	SimSetupName='Setup1'
-	VersionID=23885
-	$begin 'EmConvergenceData'
-		EmConv(VID=23739, Ver=23885, EmConv='DV23739_S24_V23885.EMConvData')
-	$end 'EmConvergenceData'
-	IsImported=false
-	IsTable=false
-	SolveSetupID=0
-	$begin 'CurrMeshes'
-		M(VID=23739, Ver=23885, Dir='DV23739_S24_V23885.cmesh/')
-	$end 'CurrMeshes'
-	MeshAssemVersionID=1549
-	$begin 'NextAssemVersionID'
-		NextUniqueID=1550
-		MoveBackwards=false
-	$end 'NextAssemVersionID'
-	$begin 'CurrentMeshG3DErrorDir'
-		ME(VID=23739, Ver=23885, Dir='DV23739_S24_V23885.g3derr/')
-	$end 'CurrentMeshG3DErrorDir'
-	$begin 'ADP'
-		$begin 'SubData'
-			ID=6
-			ADP(VID=23739, Ver=23885, Dir='DV23739_S24_ADP6_V23885.sd/')
-		$end 'SubData'
-	$end 'ADP'
-	$begin 'SU'
-		$begin 'SubData'
-			ID=1
-			SU(VID=23739, Ver=23885, File='DV23739_S24_SD1_V23885.su')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=2
-			SU(VID=23739, Ver=23885, File='DV23739_S24_SD2_V23885.su')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=3
-			SU(VID=23739, Ver=23885, File='DV23739_S24_SD3_V23885.su')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=4
-			SU(VID=23739, Ver=23885, File='DV23739_S24_SD4_V23885.su')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=5
-			SU(VID=23739, Ver=23885, File='DV23739_S24_SD5_V23885.su')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=6
-			SU(VID=23739, Ver=23885, File='DV23739_S24_SD6_V23885.su')
-		$end 'SubData'
-	$end 'SU'
-	$begin 'WaveAdapt'
-		WA(VID=23739, Ver=23885, A=1)
-	$end 'WaveAdapt'
-	$begin 'LastPassNumbers'
-		LP(VID=23739, Ver=23885, P=6)
-	$end 'LastPassNumbers'
-	$begin 'Profiles'
-		P(VID=23739, Ver=23885, File='DV23739_S24_V23885.profile')
-	$end 'Profiles'
-	$begin 'MI'
-		$begin 'SubData'
-			ID=0
-			MI(VID=23739, Ver=23885, Dir='DV23739_S24_MI0_V23885.sd/')
-		$end 'SubData'
-	$end 'MI'
-$end 'SolutionBlock859'
-$begin 'BlockMapName'
-	FileHeader='SolutionBlock1'
-	'SolutionKey(SimSetup=24, Instance=\'SetupDefinition\', Solution=-1, VersionID=23885)'='SolutionBlock859'
-	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=12880, VersionID=23885)'='SolutionBlock856'
-	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=13618, VersionID=23885)'='SolutionBlock857'
-	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=16962, VersionID=23885)'='SolutionBlock858'
-	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=25, VersionID=23885)'='SolutionBlock853'
-	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=26, VersionID=23885)'='SolutionBlock854'
-	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=30, VersionID=23885)'='SolutionBlock855'
-$end 'BlockMapName'
 $begin 'SolutionBlock1'
 	ProductName=''
 	CircuitName='HFSSDesign1'
 	VersionID=23885
 	PostProcess=false
 	LossLess=true
-	NextUniqueID=24008
+	NextUniqueID=24122
 	MoveBackwards=false
 	$begin 'VariationIDs'
 		Map(V='', ID=27)
@@ -372,41 +293,18 @@ $begin 'SolutionBlock1'
 			MI(VID=23739, Ver=23885, Dir='DV23739_MI0_V23885.sd/')
 		$end 'SubData'
 	$end 'MI'
-	VersionID2=23886
+	VersionID2=0
 $end 'SolutionBlock1'
-$begin 'SolutionBlock854'
-	SolutionName='LastAdaptive'
-	SolutionID=26
-	V=23885
-	$begin 'States'
-		F(VID=23739, Ver=23885)
-	$end 'States'
-	$begin 'Definition'
-		SamplingInterpolation=false
-		Frequencies(1575000000)
-		SolutionType=6
-		CenterFreq=0
-	$end 'Definition'
-	IsImported=false
-	IsTable=false
-	IsMatrixDataTable=false
-	SweepID=-1
-	KeepAllFastSweepFields=false
-	$begin 'M'
-		$begin 'SubData'
-			ID=0
-			M(VID=23739, Ver=23885, File='DV23739_SOL26_M0_V23885.sd')
-		$end 'SubData'
-	$end 'M'
-	$begin 'Fields'
-		IDDblMap(12847, 1575000000)
-		$begin 'DataMap'
-			VID=23739
-			Ver=23885
-			F(DblID=12847, Dir='DV23739_S26_V23885_F12847/')
-		$end 'DataMap'
-	$end 'Fields'
-$end 'SolutionBlock854'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=24, Instance=\'SetupDefinition\', Solution=-1, VersionID=23885)'='SolutionBlock859'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=12880, VersionID=23885)'='SolutionBlock856'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=13618, VersionID=23885)'='SolutionBlock857'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=16962, VersionID=23885)'='SolutionBlock858'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=25, VersionID=23885)'='SolutionBlock853'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=26, VersionID=23885)'='SolutionBlock854'
+	'SolutionKey(SimSetup=24, Instance=\'SolutionDefinition\', Solution=30, VersionID=23885)'='SolutionBlock855'
+$end 'BlockMapName'
 $begin 'SolutionBlock853'
 	SolutionName='AdaptivePass'
 	SolutionID=25
@@ -452,53 +350,39 @@ $begin 'SolutionBlock853'
 		$end 'SubData'
 	$end 'M'
 $end 'SolutionBlock853'
-$begin 'SolutionBlock858'
-	SolutionName='QuickNarrowSweep'
-	SolutionID=16962
+$begin 'SolutionBlock854'
+	SolutionName='LastAdaptive'
+	SolutionID=26
 	V=23885
 	$begin 'States'
 		F(VID=23739, Ver=23885)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=false
-		Frequencies(1000000000, 1012658227.848101, 1025316455.696203, 1037974683.544304, 1050632911.392405, 1063291139.240506, 1075949367.088608, 1088607594.936709, 1101265822.78481, 1113924050.632911, 1126582278.481013, 1139240506.329114, 1151898734.177215, 1164556962.025316, 1177215189.873418, 1189873417.721519, 1202531645.56962, 1215189873.417722, 1227848101.265823, 1240506329.113924, 1253164556.962025, 1265822784.810127, 1278481012.658228, 1291139240.506329, 1303797468.35443, 1316455696.202532, 1329113924.050633, 1341772151.898734, 1354430379.746835, 1367088607.594937, 1379746835.443038, 1392405063.291139, 1405063291.139241, 1417721518.987342, 1430379746.835443, 1443037974.683544, 1455696202.531646, 1468354430.379747, 1481012658.227848, 1493670886.075949, 1506329113.924051, 1518987341.772152, 1531645569.620253, 1544303797.468354, 1556962025.316456, 1569620253.164557, 1582278481.012658, 1594936708.860759, 1607594936.708861, 1620253164.556962, 1632911392.405063, 1645569620.253165, 1658227848.101266, 1670886075.949367, 1683544303.797468, 1696202531.64557, 1708860759.493671, 1721518987.341772, 1734177215.189873, 1746835443.037975, 1759493670.886076, 1772151898.734177, 1784810126.582278, 1797468354.43038, 1810126582.278481, 1822784810.126582, 1835443037.974684, 1848101265.822785, 1860759493.670886, 1873417721.518987, 1886075949.367089, 1898734177.21519, 1911392405.063291, 1924050632.911392, 1936708860.759494, 1949367088.607595, 1962025316.455696, 1974683544.303797, 1987341772.151899, 2000000000)
-		SolutionType=5
+		Frequencies(1575000000)
+		SolutionType=6
 		CenterFreq=0
 	$end 'Definition'
 	IsImported=false
 	IsTable=false
 	IsMatrixDataTable=false
-	SweepID=3
+	SweepID=-1
 	KeepAllFastSweepFields=false
 	$begin 'M'
 		$begin 'SubData'
 			ID=0
-			M(VID=23739, Ver=23885, File='DV23739_SOL16962_M0_V23885.sd')
+			M(VID=23739, Ver=23885, File='DV23739_SOL26_M0_V23885.sd')
 		$end 'SubData'
 	$end 'M'
-	$begin 'TransientSolveStauts'
-		SS(VID=23739, Ver=23885, SS=1)
-	$end 'TransientSolveStauts'
-	$begin 'SolverUsage'
-		IDDblMap(22183, 2000000000, 22184, 1000000000, 22185, 1500000000, 22186, 1250000000, 22188, 1787500000, 22189, 1537500000, 22190, 1375000000, 22191, 1125000000, 22192, 1893750000, 22193, 1681250000, 22194, 1062500000, 22195, 1187500000, 22202, 1946875000, 22203, 1840625000, 22204, 1734375000, 22205, 1628125000, 22375, 1917968750, 22376, 1761718750, 22377, 1631250000, 22378, 1171875000, 24007, 1312500000)
+	$begin 'Fields'
+		IDDblMap(12847, 1575000000)
 		$begin 'DataMap'
 			VID=23739
 			Ver=23885
-			SU(DblID=22184, SU='DV23739_S16962_V23885_F22184_SU.txt')
-			SU(DblID=22194, SU='DV23739_S16962_V23885_F22194_SU.txt')
-			SU(DblID=22191, SU='DV23739_S16962_V23885_F22191_SU.txt')
-			SU(DblID=22195, SU='DV23739_S16962_V23885_F22195_SU.txt')
-			SU(DblID=22186, SU='DV23739_S16962_V23885_F22186_SU.txt')
-			SU(DblID=24007, SU='DV23739_S16962_V23885_F24007_SU.txt')
-			SU(DblID=22190, SU='DV23739_S16962_V23885_F22190_SU.txt')
-			SU(DblID=22185, SU='DV23739_S16962_V23885_F22185_SU.txt')
-			SU(DblID=22189, SU='DV23739_S16962_V23885_F22189_SU.txt')
-			SU(DblID=22188, SU='DV23739_S16962_V23885_F22188_SU.txt')
-			SU(DblID=22192, SU='DV23739_S16962_V23885_F22192_SU.txt')
-			SU(DblID=22183, SU='DV23739_S16962_V23885_F22183_SU.txt')
+			F(DblID=12847, Dir='DV23739_S26_V23885_F12847/')
 		$end 'DataMap'
-	$end 'SolverUsage'
-$end 'SolutionBlock858'
+	$end 'Fields'
+$end 'SolutionBlock854'
 $begin 'SolutionBlock855'
 	SolutionName='Sweep'
 	SolutionID=30
@@ -553,6 +437,123 @@ $begin 'SolutionBlock857'
 	SweepID=2
 	KeepAllFastSweepFields=false
 $end 'SolutionBlock857'
+$begin 'SolutionBlock858'
+	SolutionName='QuickNarrowSweep'
+	SolutionID=16962
+	V=23885
+	$begin 'States'
+		F(VID=23739, Ver=23885)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(1000000000, 1012658227.848101, 1025316455.696203, 1037974683.544304, 1050632911.392405, 1063291139.240506, 1075949367.088608, 1088607594.936709, 1101265822.78481, 1113924050.632911, 1126582278.481013, 1139240506.329114, 1151898734.177215, 1164556962.025316, 1177215189.873418, 1189873417.721519, 1202531645.56962, 1215189873.417722, 1227848101.265823, 1240506329.113924, 1253164556.962025, 1265822784.810127, 1278481012.658228, 1291139240.506329, 1303797468.35443, 1316455696.202532, 1329113924.050633, 1341772151.898734, 1354430379.746835, 1367088607.594937, 1379746835.443038, 1392405063.291139, 1405063291.139241, 1417721518.987342, 1430379746.835443, 1443037974.683544, 1455696202.531646, 1468354430.379747, 1481012658.227848, 1493670886.075949, 1506329113.924051, 1518987341.772152, 1531645569.620253, 1544303797.468354, 1556962025.316456, 1569620253.164557, 1582278481.012658, 1594936708.860759, 1607594936.708861, 1620253164.556962, 1632911392.405063, 1645569620.253165, 1658227848.101266, 1670886075.949367, 1683544303.797468, 1696202531.64557, 1708860759.493671, 1721518987.341772, 1734177215.189873, 1746835443.037975, 1759493670.886076, 1772151898.734177, 1784810126.582278, 1797468354.43038, 1810126582.278481, 1822784810.126582, 1835443037.974684, 1848101265.822785, 1860759493.670886, 1873417721.518987, 1886075949.367089, 1898734177.21519, 1911392405.063291, 1924050632.911392, 1936708860.759494, 1949367088.607595, 1962025316.455696, 1974683544.303797, 1987341772.151899, 2000000000)
+		SolutionType=5
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=3
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=23739, Ver=23885, File='DV23739_SOL16962_M0_V23885.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'TransientSolveStauts'
+		SS(VID=23739, Ver=23885, SS=1)
+	$end 'TransientSolveStauts'
+	$begin 'SolverUsage'
+		IDDblMap(22183, 2000000000, 22184, 1000000000, 22185, 1500000000, 22186, 1250000000, 22188, 1787500000, 22189, 1537500000, 22190, 1375000000, 22191, 1125000000, 22192, 1893750000, 22193, 1681250000, 22194, 1062500000, 22195, 1187500000, 22202, 1946875000, 22203, 1840625000, 22204, 1734375000, 22205, 1628125000, 22375, 1917968750, 22376, 1761718750, 22377, 1631250000, 22378, 1171875000, 24007, 1312500000)
+		$begin 'DataMap'
+			VID=23739
+			Ver=23885
+			SU(DblID=22184, SU='DV23739_S16962_V23885_F22184_SU.txt')
+			SU(DblID=22194, SU='DV23739_S16962_V23885_F22194_SU.txt')
+			SU(DblID=22191, SU='DV23739_S16962_V23885_F22191_SU.txt')
+			SU(DblID=22195, SU='DV23739_S16962_V23885_F22195_SU.txt')
+			SU(DblID=22186, SU='DV23739_S16962_V23885_F22186_SU.txt')
+			SU(DblID=24007, SU='DV23739_S16962_V23885_F24007_SU.txt')
+			SU(DblID=22190, SU='DV23739_S16962_V23885_F22190_SU.txt')
+			SU(DblID=22185, SU='DV23739_S16962_V23885_F22185_SU.txt')
+			SU(DblID=22189, SU='DV23739_S16962_V23885_F22189_SU.txt')
+			SU(DblID=22188, SU='DV23739_S16962_V23885_F22188_SU.txt')
+			SU(DblID=22192, SU='DV23739_S16962_V23885_F22192_SU.txt')
+			SU(DblID=22183, SU='DV23739_S16962_V23885_F22183_SU.txt')
+		$end 'DataMap'
+	$end 'SolverUsage'
+$end 'SolutionBlock858'
+$begin 'SolutionBlock859'
+	SimSetupID=24
+	SimSetupName='Setup1'
+	VersionID=23885
+	$begin 'EmConvergenceData'
+		EmConv(VID=23739, Ver=23885, EmConv='DV23739_S24_V23885.EMConvData')
+	$end 'EmConvergenceData'
+	IsImported=false
+	IsTable=false
+	SolveSetupID=0
+	$begin 'CurrMeshes'
+		M(VID=23739, Ver=23885, Dir='DV23739_S24_V23885.cmesh/')
+	$end 'CurrMeshes'
+	MeshAssemVersionID=1549
+	$begin 'NextAssemVersionID'
+		NextUniqueID=1550
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'CurrentMeshG3DErrorDir'
+		ME(VID=27, Ver=23885, Dir='DV27_S24_V23885.g3derr/')
+		ME(VID=23739, Ver=23885, Dir='DV23739_S24_V23885.g3derr/')
+	$end 'CurrentMeshG3DErrorDir'
+	$begin 'ADP'
+		$begin 'SubData'
+			ID=6
+			ADP(VID=23739, Ver=23885, Dir='DV23739_S24_ADP6_V23885.sd/')
+		$end 'SubData'
+	$end 'ADP'
+	$begin 'SU'
+		$begin 'SubData'
+			ID=1
+			SU(VID=23739, Ver=23885, File='DV23739_S24_SD1_V23885.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			SU(VID=23739, Ver=23885, File='DV23739_S24_SD2_V23885.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			SU(VID=23739, Ver=23885, File='DV23739_S24_SD3_V23885.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			SU(VID=23739, Ver=23885, File='DV23739_S24_SD4_V23885.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			SU(VID=23739, Ver=23885, File='DV23739_S24_SD5_V23885.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=6
+			SU(VID=23739, Ver=23885, File='DV23739_S24_SD6_V23885.su')
+		$end 'SubData'
+	$end 'SU'
+	$begin 'WaveAdapt'
+		WA(VID=23739, Ver=23885, A=1)
+	$end 'WaveAdapt'
+	$begin 'LastPassNumbers'
+		LP(VID=23739, Ver=23885, P=6)
+	$end 'LastPassNumbers'
+	$begin 'Profiles'
+		P(VID=23739, Ver=23885, File='DV23739_S24_V23885.profile')
+	$end 'Profiles'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=23739, Ver=23885, Dir='DV23739_S24_MI0_V23885.sd/')
+		$end 'SubData'
+	$end 'MI'
+$end 'SolutionBlock859'
 $begin 'OptimetricsResults'
 $end 'OptimetricsResults'
 $begin 'ResponseSurfaceCache'
@@ -560,18 +561,18 @@ $begin 'ResponseSurfaceCache'
 $end 'ResponseSurfaceCache'
 $begin '$index$'
 	$begin '$index$'
-		ResponseSurfaceCache(pos=103442, lin=548, lvl=0)
-		BlockMapName(pos=2169, lin=70, lvl=0)
-		SolutionBlock853(pos=87122, lin=400, lvl=0)
-		SolutionBlock854(pos=86429, lin=367, lvl=0)
-		SolutionBlock855(pos=91522, lin=492, lvl=0)
-		SolutionBlock856(pos=94119, lin=510, lvl=0)
-		SolutionBlock857(pos=98242, lin=528, lvl=0)
-		SolutionBlock858(pos=88169, lin=445, lvl=0)
-		SolutionBlock859(pos=370, lin=1, lvl=0)
-		SolutionBlock1(pos=3016, lin=80, lvl=0)
-		OptimetricsResults(pos=103388, lin=546, lvl=0)
+		ResponseSurfaceCache(pos=103493, lin=549, lvl=0)
+		BlockMapName(pos=83779, lin=288, lvl=0)
+		SolutionBlock853(pos=84626, lin=298, lvl=0)
+		SolutionBlock854(pos=85673, lin=343, lvl=0)
+		SolutionBlock855(pos=86366, lin=376, lvl=0)
+		SolutionBlock856(pos=88963, lin=394, lvl=0)
+		SolutionBlock857(pos=93086, lin=412, lvl=0)
+		SolutionBlock858(pos=98232, lin=430, lvl=0)
+		SolutionBlock859(pos=101585, lin=477, lvl=0)
+		SolutionBlock1(pos=370, lin=1, lvl=0)
+		OptimetricsResults(pos=103439, lin=547, lvl=0)
 		$base_index$(pos=0, lin=1, lvl=0)
-		$index$(pos=103524, lin=551, lvl=0)
+		$index$(pos=103575, lin=552, lvl=0)
 	$end '$index$'
 $end '$index$'

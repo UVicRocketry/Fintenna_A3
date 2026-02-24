@@ -1,0 +1,77 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'30mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35.928125000000001mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI5BEE10520177190472019.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'40mm\' $FeedY=\'25mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'28mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI630210520177190527544.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'40mm\' $FeedY=\'25mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35.928125000000001mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI617110520177190515232.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'10mm\' $FeedX=\'75mm\' $FeedY=\'21mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI0482105201771907901119.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'3mm\' $FeedX=\'75mm\' $FeedY=\'21mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI057A105201771907977132.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'4.7999999999999998mm\' $FeedX=\'75mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI2B4C105201771910942301.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'4.7999999999999998mm\' $FeedX=\'75mm\' $FeedY=\'21.199999999999999mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI2D43105201771911096326.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'4.7999999999999998mm\' $FeedX=\'75mm\' $FeedY=\'21mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI260B105201771910530262.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'4.7999999999999998mm\' $FeedX=\'75mm\' $FeedY=\'22mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI2C38105201771911014313.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'5mm\' $FeedX=\'75mm\' $FeedY=\'18mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI7F4010520177190748978.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'5mm\' $FeedX=\'75mm\' $FeedY=\'19mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI011310520177190763291.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'5mm\' $FeedX=\'75mm\' $FeedY=\'21mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI0229105201771907717104.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'5mm\' $FeedX=\'75mm\' $FeedY=\'25mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'28mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI7B3F10520177190717564.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'8mm\' $FeedX=\'75mm\' $FeedY=\'21mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI1722105201771909361195.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'90deg\' $FeedOffset=\'8mm\' $FeedX=\'80mm\' $FeedY=\'21mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI1E1C105201771909908207.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'

@@ -1,0 +1,17 @@
+$begin 'imprintInfo'
+	FileVersion='2025R2'
+	$begin 'imprintIDMap'
+	$end 'imprintIDMap'
+	$begin 'PartsInfo'
+		Part(1325, 'Substrate', -1, 8, 1327, 1330, 1326, 2879, 2894, 2961, 2960, 2963)
+		Part(1479, 'Box13', -1, 6, 1481, 1484, 1483, 1482, 1480, 1485)
+		Part(2788, 'Fintenna', -1, 37, 19594, 19595, 2789, 2790, 2791, 2792, 2793, 2794, 2795, 2796, 2797, 2798, 2799, 2800, 19596, 19597, 19598, 19599, 19600, 19601, 19602, 19603, 19604, 19605, 19606, 19607, 19608, 19609, 19610, 19611, 19676, 19677, 19678, 19679, 19680, 19681, 19682)
+		Part(6182, 'Ground', -1, 12, 6184, 19719, 6183, 19720, 6186, 6185, 6188, 19538, 19547, 19721, 19722, 19723)
+		Part(12872, 'FeedLine', -1, 9, 12874, 12876, 12875, 12873, 12878, 19122, 19120, 19123, 19149)
+		Part(13152, 'Rectangle1', -1, 1, 14480)
+	$end 'PartsInfo'
+	$begin 'PartAddtionalPiecesInfo'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'faceImprintInfo'
+	$end 'faceImprintInfo'
+$end 'imprintInfo'
