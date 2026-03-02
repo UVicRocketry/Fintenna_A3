@@ -1,11 +1,11 @@
 $begin '$base_index$'
   $begin 'properties'
     all_levels=000000000000
-    time(year=000000002026, month=000000000002, day=000000000025, hour=000000000022, min=000000000016, sec=000000000032)
+    time(year=000000002026, month=000000000002, day=000000000027, hour=000000000013, min=000000000006, sec=000000000024)
     version=000000000000
   $end 'properties'
   $begin '$base_index$'
-    $index$(pos=000000038798, lin=000000000421, lvl=000000000000)
+    $index$(pos=000000039269, lin=000000000422, lvl=000000000000)
   $end '$base_index$'
 $end '$base_index$'
 $begin 'SolutionBlock11'
@@ -215,7 +215,6 @@ $begin 'SolutionBlock14'
 	$end 'NextAssemVersionID'
 	$begin 'CurrentMeshG3DErrorDir'
 		ME(VID=567, Ver=457, Dir='DV567_S57_V457.g3derr/')
-		ME(VID=567, Ver=457, Dir='DV567_S57_V457.g3derr/')
 	$end 'CurrentMeshG3DErrorDir'
 	$begin 'ADP'
 		$begin 'SubData'
@@ -291,7 +290,7 @@ $begin 'SolutionBlock1'
 	VersionID=457
 	PostProcess=false
 	LossLess=true
-	NextUniqueID=1027
+	NextUniqueID=1474
 	MoveBackwards=false
 	$begin 'VariationIDs'
 		Map(V='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'65000mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=567)
@@ -347,6 +346,8 @@ $begin 'SolutionBlock1'
 		Map(V='$Angle=\'20deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=315)
 		Map(V='$Angle=\'20deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'3mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=323)
 		Map(V='$Angle=\'29.999999999999996deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=313)
+		Map(V='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'7mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'1.47mm\' $PhaseLen=\'10mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=1177)
+		Map(V='$Angle=\'45deg\' $FeedOffset=\'7mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=1085)
 		Map(V='$Angle=\'5deg\' $FeedOffset=\'20mm\' $FeedX=\'77mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=340)
 		Map(V='$Angle=\'5deg\' $FeedOffset=\'20mm\' $FeedX=\'77mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=339)
 		Map(V='$Angle=\'5deg\' $FeedOffset=\'20mm\' $FeedX=\'80mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=338)
@@ -430,13 +431,13 @@ $begin 'SolutionBlock1'
 $end 'SolutionBlock1'
 $begin '$index$'
 	$begin '$index$'
-		SolutionBlock1(pos=13916, lin=278, lvl=0)
+		SolutionBlock1(pos=13863, lin=277, lvl=0)
 		SolutionBlock11(pos=370, lin=1, lvl=0)
 		BlockMapName(pos=1855, lin=66, lvl=0)
 		SolutionBlock12(pos=2351, lin=73, lvl=0)
 		SolutionBlock13(pos=3014, lin=106, lvl=0)
 		SolutionBlock14(pos=11681, lin=188, lvl=0)
 		$base_index$(pos=0, lin=1, lvl=0)
-		$index$(pos=38798, lin=421, lvl=0)
+		$index$(pos=39269, lin=422, lvl=0)
 	$end '$index$'
 $end '$index$'

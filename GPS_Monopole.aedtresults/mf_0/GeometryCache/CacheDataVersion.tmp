@@ -1,5 +1,5 @@
 $begin 'CacheDataVersion'
-	DataVersion=-1
+	DataVersion=390
 $end 'CacheDataVersion'
 $begin 'VariableValues'
 	$Radius='73mm'
@@ -13,4 +13,6 @@ $begin 'VariableValues'
 	$FeedOffset='2mm+$GroundOffset'
 	$Angle='45deg'
 	$GroundOffset='5mm'
+	$Element='5mm'
+	$PhaseLen='10mm'
 $end 'VariableValues'
