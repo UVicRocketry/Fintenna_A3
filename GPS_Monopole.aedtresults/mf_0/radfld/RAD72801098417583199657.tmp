@@ -5,8 +5,8 @@ $begin 'RFSM'
 	$end 'CustomSurfs'
 	$begin 'SetupSolns'
 		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=268, ParentID=26, VersID=27414, Context='[0:0]', DesVarn='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'7mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'1.47mm\' $PhaseLen=\'10mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='5BB318024177221576718.tmp'
+			Key(ParentID=69, VersID=275, ParentID=26, VersID=28997, Context='[0:0]', DesVarn='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='7DDC167441772519476323.tmp'
 		$end 'SetupSolnEntry'
 	$end 'SetupSolns'
 	$begin 'MonostaticRcsSolns'

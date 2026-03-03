@@ -1,0 +1,89 @@
+$begin 'DesignData'
+	Version=242
+	$begin 'VariableValues'
+	$end 'VariableValues'
+	$begin 'PartsInfo'
+		Part(6, true, 'Substrate', true, 'FR4_epoxy', 6, 7, 9, 10, 11, 8, 12, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 27, 110, 76, false)
+		Part(34, true, 'Copper', false, 'copper', 6, 35, 37, 38, 39, 36, 40, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 242, 140, 102, false)
+		Part(203, true, 'Box1', true, 'air', 6, 204, 206, 207, 208, 205, 209, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 230, 230, 230, false)
+		Part(312, true, 'Box4', false, 'copper', 6, 314, 317, 316, 315, 313, 318, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 242, 140, 102, false)
+		Part(364, false, 'Rectangle1', true, 'vacuum', 1, 374, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 143, 175, 143, false)
+		Part(376, false, 'Rectangle2', true, 'vacuum', 1, 386, true, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, false, false, -1, 143, 175, 143, false)
+	$end 'PartsInfo'
+	$begin 'FacesInfo'
+		Face(7, 6, 0.0016, 160, true, 0, 20, 0.2, 0, 0, 1, 4, 0.02, 0, 0.0002, 0.02, 0.04, 0.0002, -0.02, 0.04, 0.0002, -0.02, 0, 0.0002)
+		Face(8, 6, 0.0016, 160, true, 0, 20, 0, -0, -0, -1, 4, 0.02, 0, 0, -0.02, 0, 0, -0.02, 0.04, 0, 0.02, 0.04, 0)
+		Face(9, 6, 8e-06, 80.4, true, 0, 0, 0.1, -0, -1, -0, 4, 0.02, 0, 0.0002, -0.02, 0, 0.0002, -0.02, 0, 0, 0.02, 0, 0)
+		Face(10, 6, 8e-06, 80.4, true, -20, 20, 0.1, -1, -0, -0, 4, -0.02, 0, 0.0002, -0.02, 0.04, 0.0002, -0.02, 0.04, 0, -0.02, 0, 0)
+		Face(11, 6, 8e-06, 80.4, true, 0, 40, 0.1, 0, 1, 0, 4, -0.02, 0.04, 0.0002, 0.02, 0.04, 0.0002, 0.02, 0.04, 0, -0.02, 0.04, 0)
+		Face(12, 6, 8e-06, 80.4, true, 20, 20, 0.1, 1, 0, 0, 4, 0.02, 0.04, 0, 0.02, 0.04, 0.0002, 0.02, 0, 0.0002, 0.02, 0, 0)
+		Face(35, 34, 0.0016, 160, true, 0, 20, 0.235, 0, 0, 1, 4, 0.02, 0, 0.000235, 0.02, 0.04, 0.000235, -0.02, 0.04, 0.000235, -0.02, 0, 0.000235)
+		Face(36, 34, 0.0016, 160, true, 0, 20, 0.2, -0, -0, -1, 4, 0.02, 0, 0.0002, -0.02, 0, 0.0002, -0.02, 0.04, 0.0002, 0.02, 0.04, 0.0002)
+		Face(37, 34, 1.4e-06, 80.07, true, 0, 0, 0.2175, -0, -1, -0, 4, 0.02, 0, 0.000235, -0.02, 0, 0.000235, -0.02, 0, 0.0002, 0.02, 0, 0.0002)
+		Face(38, 34, 1.4e-06, 80.07, true, -20, 20, 0.2175, -1, -0, -0, 4, -0.02, 0, 0.000235, -0.02, 0.04, 0.000235, -0.02, 0.04, 0.0002, -0.02, 0, 0.0002)
+		Face(39, 34, 1.4e-06, 80.07, true, 0, 40, 0.2175, 0, 1, 0, 4, -0.02, 0.04, 0.000235, 0.02, 0.04, 0.000235, 0.02, 0.04, 0.0002, -0.02, 0.04, 0.0002)
+		Face(40, 34, 1.4e-06, 80.07, true, 20, 20, 0.2175, 1, 0, 0, 4, 0.02, 0.04, 0.0002, 0.02, 0.04, 0.000235, 0.02, 0, 0.000235, 0.02, 0, 0.0002)
+		Face(204, 203, 0.008, 480, true, 1.38778e-14, 20, 100, 0, 0, 1, 4, 0.1, 0, 0.1, 0.1, 0.04, 0.1, -0.1, 0.04, 0.1, -0.1, 0, 0.1)
+		Face(205, 203, 0.008, 480, true, -1.38778e-14, 20, -100, -0, -0, -1, 4, 0.1, 0, -0.1, -0.1, 0, -0.1, -0.1, 0.04, -0.1, 0.1, 0.04, -0.1)
+		Face(206, 203, 0.04, 800, true, 0, 0, 0, -0, -1, -0, 4, 0.1, 0, 0.1, -0.1, 0, 0.1, -0.1, 0, -0.1, 0.1, 0, -0.1)
+		Face(207, 203, 0.008, 480, true, -100, 20, 1.38778e-14, -1, -0, -0, 4, -0.1, 0, 0.1, -0.1, 0.04, 0.1, -0.1, 0.04, -0.1, -0.1, 0, -0.1)
+		Face(208, 203, 0.04, 800, true, 0, 40, 0, 0, 1, 0, 4, -0.1, 0.04, 0.1, 0.1, 0.04, 0.1, 0.1, 0.04, -0.1, -0.1, 0.04, -0.1)
+		Face(209, 203, 0.008, 480, true, 100, 20, -1.38778e-14, 1, 0, 0, 4, 0.1, 0.04, -0.1, 0.1, 0.04, 0.1, 0.1, 0, 0.1, 0.1, 0, -0.1)
+		Face(313, 312, 2e-05, 81, true, 0.25, 20, 0, -0, -0, 1, 4, 0.0005, 0.04, 0, 0, 0.04, 0, 0, 0, 0, 0.0005, 0, 0)
+		Face(314, 312, 2e-05, 81, true, 0.25, 20, -0.035, 0, 0, -1, 4, 0.0005, 0.04, -3.5e-05, 0.0005, 0, -3.5e-05, 0, 0, -3.5e-05, 0, 0.04, -3.5e-05)
+		Face(315, 312, 1.75e-08, 1.07, true, 0.25, 0, -0.0175, 0, -1, 0, 4, 0, 0, -3.5e-05, 0.0005, 0, -3.5e-05, 0.0005, 0, 0, 0, 0, 0)
+		Face(316, 312, 1.4e-06, 80.07, true, 0, 20, -0.0175, -1, -0, -0, 4, 0, 0.04, -3.5e-05, 0, 0, -3.5e-05, 0, 0, 0, 0, 0.04, 0)
+		Face(317, 312, 1.75e-08, 1.07, true, 0.25, 40, -0.0175, -0, 1, -0, 4, 0.0005, 0.04, -3.5e-05, 0, 0.04, -3.5e-05, 0, 0.04, 0, 0.0005, 0.04, 0)
+		Face(318, 312, 1.4e-06, 80.07, true, 0.5, 20, -0.0175, 1, 0, 0, 4, 0.0005, 0, 0, 0.0005, 0, -3.5e-05, 0.0005, 0.04, -3.5e-05, 0.0005, 0.04, 0)
+		Face(374, 364, 0.00104, 132, true, 2.56205e-15, 4.08216e-15, 1, -9.95799e-17, 1, -1.60812e-16, 4, -0.02, 0, -0.012, -0.02, 4.18112e-18, 0.014, 0.02, 8.16432e-18, 0.014, 0.02, 3.9832e-18, -0.012)
+		Face(386, 376, 0.00104, 132, true, 2.13726e-15, 40, 1, -9.95799e-17, 1, -1.60812e-16, 4, -0.02, 0.04, -0.012, -0.02, 0.04, 0.014, 0.02, 0.04, 0.014, 0.02, 0.04, -0.012)
+	$end 'FacesInfo'
+	$begin 'PartAddtionalPiecesInfo'
+		$begin 'Bodies'
+		$end 'Bodies'
+		$begin 'Faces'
+		$end 'Faces'
+	$end 'PartAddtionalPiecesInfo'
+	$begin 'DesignGeometryInfo'
+		ModelUnit='mm'
+		ModelerType=2
+		MinDimensionInModelUnits=1e-06
+		MaxDimensionInModelUnits=10000
+		GlobalCSID=1
+		RegionID=-1
+		PreprocessForwardIdStart=387
+		PreprocessForwardIdEnd=387
+		PreprocessBackwardIdStart=2147483647
+		PreprocessBackwardIdEnd=2147483647
+	$end 'DesignGeometryInfo'
+	$begin 'Point3DDefinitionInfo'
+	$end 'Point3DDefinitionInfo'
+	$begin 'Plane3DDefinitionInfo'
+		Plane(-4, 'Global:XY', 1, -1, true, 6422633, 0, 0, 0, 0, 0, 1)
+		Plane(-3, 'Global:YZ', 1, -1, true, 6422633, 0, 0, 0, 1, 0, 0)
+		Plane(-2, 'Global:XZ', 1, -1, true, 6422633, 0, 0, 0, 0, 1, 0)
+	$end 'Plane3DDefinitionInfo'
+	$begin 'CoordinateSystemInfo'
+		CoordinateSystem(1, 'Global', -1, false, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0)
+	$end 'CoordinateSystemInfo'
+	$begin 'ComponentDefinitionInfo'
+	$end 'ComponentDefinitionInfo'
+	$begin 'ComponentInstanceInfo'
+	$end 'ComponentInstanceInfo'
+	$begin 'GeometryEntityListOperationInfo'
+		$begin 'EntityList'
+			ID=2
+			Name='AllObjects'
+			$begin 'GeometryEntityListParameters'
+				EntityType='Object'
+				EntityList(6, 34, 203, 312, 364, 376)
+			$end 'GeometryEntityListParameters'
+		$end 'EntityList'
+	$end 'GeometryEntityListOperationInfo'
+	$begin 'MaterialManager'
+		$begin 'ProjectMaterials'
+		$end 'ProjectMaterials'
+		$begin 'InternalPrivateMaterials'
+		$end 'InternalPrivateMaterials'
+	$end 'MaterialManager'
+$end 'DesignData'

@@ -1,6 +1,6 @@
 SimValueCacheVersionID=1
 $begin 'SimValueInfos'
-	NextUniqueID=45
+	NextUniqueID=53
 	MoveBackwards=false
 	$begin 'SimValue'
 		ID=0
@@ -362,6 +362,70 @@ $begin 'SimValueInfos'
 			MatrixSize(0, 0)
 		$end 'SimValueParams'
 	$end 'SimValue'
+	$begin 'SimValue'
+		ID=45
+		$begin 'SimValueParams'
+			QuantityName='St(2,2)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=46
+		$begin 'SimValueParams'
+			QuantityName='St(2,3)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=47
+		$begin 'SimValueParams'
+			QuantityName='St(1,4)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=48
+		$begin 'SimValueParams'
+			QuantityName='ActiveY(1:1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=49
+		$begin 'SimValueParams'
+			QuantityName='ActiveZ(1:1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=50
+		$begin 'SimValueParams'
+			QuantityName='Yt(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=51
+		$begin 'SimValueParams'
+			QuantityName='Zt(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=52
+		$begin 'SimValueParams'
+			QuantityName='Zot(1,1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
 $end 'SimValueInfos'
 $begin 'SimValueCache'
 	$begin 'DesignMap'
@@ -378,10 +442,10 @@ $begin 'SimValueCache'
 						SimValueContext(0, 0, 2, 0, false, false, 69, 1, 0, 1, 1, '', 0, 0)
 					$end 'ReportTypeSolnDef'
 					$begin 'MajorVVMap'
-						VersionID=27414
+						VersionID=28997
 						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'7mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'1.47mm\' $PhaseLen=\'10mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
-							MinorCacheFile='min5C0B18024177221579420.tmp'
+							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min0348167441772519901326.tmp'
 						$end 'MinorVVMap'
 					$end 'MajorVVMap'
 				$end 'VersionMap'
@@ -391,10 +455,10 @@ $begin 'SimValueCache'
 						SimValueContext(0, 0, 2, 0, false, false, 69, 1, 0, 1, 1, '', 0, 0)
 					$end 'ReportTypeSolnDef'
 					$begin 'MajorVVMap'
-						VersionID=27414
+						VersionID=28997
 						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'7mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'1.47mm\' $PhaseLen=\'10mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
-							MinorCacheFile='min5C0B18024177221579421.tmp'
+							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min0348167441772519901327.tmp'
 						$end 'MinorVVMap'
 					$end 'MajorVVMap'
 				$end 'VersionMap'
@@ -404,26 +468,35 @@ $begin 'SimValueCache'
 			$end 'ContextMap'
 			$begin 'ContextMap'
 				SolutionID=13618
-			$end 'ContextMap'
-			$begin 'ContextMap'
-				SolutionID=16962
+				$begin 'VersionMap'
+					$begin 'ReportTypeSolnDef'
+						ReportType=1
+						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
+					$end 'ReportTypeSolnDef'
+					$begin 'MajorVVMap'
+						VersionID=28997
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+							MinorCacheFile='min0348167441772519901328.tmp'
+						$end 'MinorVVMap'
+					$end 'MajorVVMap'
+				$end 'VersionMap'
 				$begin 'VersionMap'
 					$begin 'ReportTypeSolnDef'
 						ReportType=0
 						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
 					$end 'ReportTypeSolnDef'
 					$begin 'MajorVVMap'
-						VersionID=27414
+						VersionID=28997
 						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'7mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'1.47mm\' $PhaseLen=\'13.75mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
-							MinorCacheFile='min71B010088177216731951.tmp'
-						$end 'MinorVVMap'
-						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'7mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'1.47mm\' $PhaseLen=\'10mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
-							MinorCacheFile='min5C0B18024177221579422.tmp'
+							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+							MinorCacheFile='min0348167441772519901329.tmp'
 						$end 'MinorVVMap'
 					$end 'MajorVVMap'
 				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=16962
 			$end 'ContextMap'
 		$end 'SolutionMap'
 	$end 'DesignMap'
