@@ -5,8 +5,20 @@ $begin 'RFSM'
 	$end 'CustomSurfs'
 	$begin 'SetupSolns'
 		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=275, ParentID=26, VersID=28997, Context='[0:0]', DesVarn='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='7DDC167441772519476323.tmp'
+			Key(ParentID=69, VersID=301, ParentID=26, VersID=30286, Context='[0:0]', DesVarn='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='7D9B89721772690040397.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=301, ParentID=26, VersID=30286, Context='[0:0]', DesVarn='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'28.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='01CA89721772690368430.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=301, ParentID=26, VersID=30286, Context='[0:0]', DesVarn='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'13mm\' $Radius=\'73mm\' $RadLen=\'28.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='049B89721772690589446.tmp'
+		$end 'SetupSolnEntry'
+		$begin 'SetupSolnEntry'
+			Key(ParentID=69, VersID=301, ParentID=26, VersID=30286, Context='[0:0]', DesVarn='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'29mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='7F3089721772690164413.tmp'
 		$end 'SetupSolnEntry'
 	$end 'SetupSolns'
 	$begin 'MonostaticRcsSolns'

@@ -1,6 +1,6 @@
 SimValueCacheVersionID=1
 $begin 'SimValueInfos'
-	NextUniqueID=53
+	NextUniqueID=56
 	MoveBackwards=false
 	$begin 'SimValue'
 		ID=0
@@ -426,6 +426,30 @@ $begin 'SimValueInfos'
 			MatrixSize(0, 0)
 		$end 'SimValueParams'
 	$end 'SimValue'
+	$begin 'SimValue'
+		ID=53
+		$begin 'SimValueParams'
+			QuantityName='St(FeedLine_T1,FeedLine_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=54
+		$begin 'SimValueParams'
+			QuantityName='St(Feedline2_T1,Feedline2_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
+	$begin 'SimValue'
+		ID=55
+		$begin 'SimValueParams'
+			QuantityName='St(Feedline2_T1,FeedLine_T1)'
+			ValueState(90, 15, 1, 2)
+			MatrixSize(0, 0)
+		$end 'SimValueParams'
+	$end 'SimValue'
 $end 'SimValueInfos'
 $begin 'SimValueCache'
 	$begin 'DesignMap'
@@ -442,10 +466,22 @@ $begin 'SimValueCache'
 						SimValueContext(0, 0, 2, 0, false, false, 69, 1, 0, 1, 1, '', 0, 0)
 					$end 'ReportTypeSolnDef'
 					$begin 'MajorVVMap'
-						VersionID=28997
+						VersionID=30286
 						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
-							MinorCacheFile='min0348167441772519901326.tmp'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min7E1D89721772690080400.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'29mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min00C589721772690288417.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'28.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min03F889721772690539433.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'13mm\' $Radius=\'73mm\' $RadLen=\'28.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min061689721772690705448.tmp'
 						$end 'MinorVVMap'
 					$end 'MajorVVMap'
 				$end 'VersionMap'
@@ -455,10 +491,22 @@ $begin 'SimValueCache'
 						SimValueContext(0, 0, 2, 0, false, false, 69, 1, 0, 1, 1, '', 0, 0)
 					$end 'ReportTypeSolnDef'
 					$begin 'MajorVVMap'
-						VersionID=28997
+						VersionID=30286
 						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
-							MinorCacheFile='min0348167441772519901327.tmp'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min7E1D89721772690080401.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'29mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min00C589721772690288418.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'28.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min03F889721772690539434.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'13mm\' $Radius=\'73mm\' $RadLen=\'28.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
+							MinorCacheFile='min061689721772690705449.tmp'
 						$end 'MinorVVMap'
 					$end 'MajorVVMap'
 				$end 'VersionMap'
@@ -468,35 +516,38 @@ $begin 'SimValueCache'
 			$end 'ContextMap'
 			$begin 'ContextMap'
 				SolutionID=13618
-				$begin 'VersionMap'
-					$begin 'ReportTypeSolnDef'
-						ReportType=1
-						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-					$end 'ReportTypeSolnDef'
-					$begin 'MajorVVMap'
-						VersionID=28997
-						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
-							MinorCacheFile='min0348167441772519901328.tmp'
-						$end 'MinorVVMap'
-					$end 'MajorVVMap'
-				$end 'VersionMap'
+			$end 'ContextMap'
+			$begin 'ContextMap'
+				SolutionID=16962
 				$begin 'VersionMap'
 					$begin 'ReportTypeSolnDef'
 						ReportType=0
 						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
 					$end 'ReportTypeSolnDef'
 					$begin 'MajorVVMap'
-						VersionID=28997
+						VersionID=30286
 						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'45deg\' $Element=\'5mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
-							MinorCacheFile='min0348167441772519901329.tmp'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'26.699999999999999mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+							MinorCacheFile='min7B8089721772689875382.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'27.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+							MinorCacheFile='min7E1D89721772690080402.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'29mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+							MinorCacheFile='min00C589721772690288419.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'3mm\' $Radius=\'73mm\' $RadLen=\'28.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+							MinorCacheFile='min03F889721772690539435.tmp'
+						$end 'MinorVVMap'
+						$begin 'MinorVVMap'
+							MajorVariation='$Angle=\'45deg\' $Element=\'2mm\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'21.199999999999999mm\' $GroundOffset=\'5mm\' $LineWidth=\'0.33000000000000002mm\' $PhaseLen=\'13mm\' $Radius=\'73mm\' $RadLen=\'28.5mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+							MinorCacheFile='min061689721772690705450.tmp'
 						$end 'MinorVVMap'
 					$end 'MajorVVMap'
 				$end 'VersionMap'
-			$end 'ContextMap'
-			$begin 'ContextMap'
-				SolutionID=16962
 			$end 'ContextMap'
 		$end 'SolutionMap'
 	$end 'DesignMap'
