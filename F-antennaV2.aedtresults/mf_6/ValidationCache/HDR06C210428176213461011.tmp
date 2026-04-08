@@ -80,6 +80,11 @@ $begin 'ValidationCache'
 		FileName='VI06CF147401767392619368.tmp'
 	$end 'OneValidationResult'
 	$begin 'OneValidationResult'
+		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
+		Status=true
+		FileName='VI3F0B1277217756151693.tmp'
+	$end 'OneValidationResult'
+	$begin 'OneValidationResult'
 		Variation='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\''
 		Status=true
 		FileName='VI5ABF147401767389165295.tmp'

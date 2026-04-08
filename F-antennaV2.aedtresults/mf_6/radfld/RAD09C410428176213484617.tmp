@@ -5,36 +5,8 @@ $begin 'RFSM'
 	$end 'CustomSurfs'
 	$begin 'SetupSolns'
 		$begin 'SetupSolnEntry'
-			Key(ParentID=1, VersID=17, ParentID=119, VersID=3407, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
-			SetupSolnFBOFile='0C5B147401767393054408.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=1, VersID=17, ParentID=119, VersID=3407, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.25mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
-			SetupSolnFBOFile='12C3147401767393556433.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=1, VersID=17, ParentID=119, VersID=3407, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
-			SetupSolnFBOFile='0EC8147401767393244420.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=1, VersID=17, ParentID=119, VersID=3407, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
-			SetupSolnFBOFile='14D0147401767393717446.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=1, VersID=17, ParentID=119, VersID=3407, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.75mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
-			SetupSolnFBOFile='0A4A147401767392892395.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=1, VersID=17, ParentID=119, VersID=3407, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
-			SetupSolnFBOFile='0523147401767392488367.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=1, VersID=17, ParentID=119, VersID=3407, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
-			SetupSolnFBOFile='0227147401767392254355.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=1, VersID=17, ParentID=119, VersID=3407, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
-			SetupSolnFBOFile='07C0147401767392693381.tmp'
+			Key(ParentID=1, VersID=17, ParentID=119, VersID=3945, Context='[0:0]', DesVarn='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', IntrVarn='Freq=\'0.91500000000000004GHz\'')
+			SetupSolnFBOFile='3FD212772177561523011.tmp'
 		$end 'SetupSolnEntry'
 	$end 'SetupSolns'
 	$begin 'MonostaticRcsSolns'

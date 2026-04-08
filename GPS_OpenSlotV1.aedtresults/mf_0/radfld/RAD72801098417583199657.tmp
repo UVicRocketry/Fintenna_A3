@@ -5,28 +5,12 @@ $begin 'RFSM'
 	$end 'CustomSurfs'
 	$begin 'SetupSolns'
 		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=270, ParentID=26, VersID=27422, Context='[0:0]', DesVarn='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35.5mm\' $RadWidth=\'2mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='2E60125201774128777265.tmp'
+			Key(ParentID=69, VersID=270, ParentID=26, VersID=27931, Context='[0:0]', DesVarn='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'37mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='513C21412177561659545.tmp'
 		$end 'SetupSolnEntry'
 		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=270, ParentID=26, VersID=27422, Context='[0:0]', DesVarn='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35.5mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='2C7D125201774128629250.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=270, ParentID=26, VersID=27422, Context='[0:0]', DesVarn='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35.5mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='3051125201774128929281.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=270, ParentID=26, VersID=27422, Context='[0:0]', DesVarn='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'36mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='323B125201774129079295.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=270, ParentID=26, VersID=27422, Context='[0:0]', DesVarn='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'36.5mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='33E3125201774129209311.tmp'
-		$end 'SetupSolnEntry'
-		$begin 'SetupSolnEntry'
-			Key(ParentID=69, VersID=270, ParentID=26, VersID=27422, Context='[0:0]', DesVarn='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'37mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
-			SetupSolnFBOFile='3677125201774129411326.tmp'
+			Key(ParentID=69, VersID=270, ParentID=26, VersID=27931, Context='[0:0]', DesVarn='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', IntrVarn='Freq=\'1.575GHz\'')
+			SetupSolnFBOFile='53C921412177561679559.tmp'
 		$end 'SetupSolnEntry'
 	$end 'SetupSolns'
 	$begin 'MonostaticRcsSolns'
