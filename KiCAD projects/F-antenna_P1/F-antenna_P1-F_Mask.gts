@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
-%TF.CreationDate,2026-01-12T20:38:26-08:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.0*%
+%TF.CreationDate,2026-04-11T15:35:10-07:00*%
 %TF.ProjectId,F-antenna_P1,462d616e-7465-46e6-9e61-5f50312e6b69,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.5) date 2026-01-12 20:38:26*
+G04 Created by KiCad (PCBNEW 10.0.0) date 2026-04-11 15:35:10*
 %MOMM*%
 %LPD*%
 G01*
@@ -23,10 +23,10 @@ G04 Aperture macros list end*
 G04 APERTURE END LIST*
 D10*
 %TO.C,J1*%
-X68130800Y-91211200D03*
+X70770000Y-98825000D03*
 D11*
-X68130800Y-88011200D03*
+X70770000Y-95625000D03*
 D12*
-X68630800Y-89611200D03*
+X71270000Y-97225000D03*
 %TD*%
 M02*
