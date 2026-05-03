@@ -372,32 +372,6 @@ $begin 'SimValueCache'
 			$end 'ContextMap'
 			$begin 'ContextMap'
 				SolutionID=26
-				$begin 'VersionMap'
-					$begin 'ReportTypeSolnDef'
-						ReportType=9
-						SimValueContext(0, 0, 2, 0, false, false, 69, 1, 0, 1, 1, '', 0, 0)
-					$end 'ReportTypeSolnDef'
-					$begin 'MajorVVMap'
-						VersionID=28395
-						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
-							MinorCacheFile='min1F0822372177579327844.tmp'
-						$end 'MinorVVMap'
-					$end 'MajorVVMap'
-				$end 'VersionMap'
-				$begin 'VersionMap'
-					$begin 'ReportTypeSolnDef'
-						ReportType=3
-						SimValueContext(0, 0, 2, 0, false, false, 69, 1, 0, 1, 1, '', 0, 0)
-					$end 'ReportTypeSolnDef'
-					$begin 'MajorVVMap'
-						VersionID=28395
-						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\' Freq=\'1.575GHz\''
-							MinorCacheFile='min1F0822372177579327845.tmp'
-						$end 'MinorVVMap'
-					$end 'MajorVVMap'
-				$end 'VersionMap'
 			$end 'ContextMap'
 			$begin 'ContextMap'
 				SolutionID=12880
@@ -407,32 +381,6 @@ $begin 'SimValueCache'
 			$end 'ContextMap'
 			$begin 'ContextMap'
 				SolutionID=16962
-				$begin 'VersionMap'
-					$begin 'ReportTypeSolnDef'
-						ReportType=1
-						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-					$end 'ReportTypeSolnDef'
-					$begin 'MajorVVMap'
-						VersionID=28395
-						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
-							MinorCacheFile='min1F0822372177579327846.tmp'
-						$end 'MinorVVMap'
-					$end 'MajorVVMap'
-				$end 'VersionMap'
-				$begin 'VersionMap'
-					$begin 'ReportTypeSolnDef'
-						ReportType=0
-						SimValueContext(3, 0, 2, 0, false, false, -1, 1, 0, 1, 1, '', 0, 0)
-					$end 'ReportTypeSolnDef'
-					$begin 'MajorVVMap'
-						VersionID=28395
-						$begin 'MinorVVMap'
-							MajorVariation='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
-							MinorCacheFile='min1F0822372177579327847.tmp'
-						$end 'MinorVVMap'
-					$end 'MajorVVMap'
-				$end 'VersionMap'
 			$end 'ContextMap'
 		$end 'SolutionMap'
 	$end 'DesignMap'

@@ -1,0 +1,7 @@
+$begin 'ValidationCache'
+	$begin 'OneValidationResult'
+		Variation='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'0.69999999999999996mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
+		Status=true
+		FileName='VI7183831217778367197.tmp'
+	$end 'OneValidationResult'
+$end 'ValidationCache'
