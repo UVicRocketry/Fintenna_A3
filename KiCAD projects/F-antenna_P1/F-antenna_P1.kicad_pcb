@@ -911,7 +911,7 @@
 		(uuid "3f4bdd1c-facf-4327-b52d-69a57c438e9a")
 	)
 	(gr_line
-		(start 133.35 95.25)
+		(start 133.35 104.14)
 		(end 88.9 50.8)
 		(stroke
 			(width 0.05)
@@ -932,7 +932,7 @@
 	)
 	(gr_line
 		(start 133.35 146.05)
-		(end 133.35 95.25)
+		(end 133.35 104.14)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -986,7 +986,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1.75"
+		(gr_text "1750"
 			(at 111.125 156.33 0)
 			(layer "User.2")
 			(uuid "25910c78-7492-4d14-8ee3-fa0ef9fb38c0")
@@ -1024,7 +1024,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.5125"
+		(gr_text "512.5"
 			(at 76.955 114.14125 90)
 			(layer "User.2")
 			(uuid "438f42b2-96f5-4377-a24c-cce33987d486")
@@ -1062,7 +1062,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.75"
+		(gr_text "750"
 			(at 76.955 73.025 90)
 			(layer "User.2")
 			(uuid "4a41fec0-f154-4aa6-8dc6-364f5b9914d8")
@@ -1100,7 +1100,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.625"
+		(gr_text "625"
 			(at 80.9625 46.475 0)
 			(layer "User.2")
 			(uuid "a043d204-10e7-4193-8905-c744ce51843f")
@@ -1138,7 +1138,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.45"
+		(gr_text "450"
 			(at 72.39 36.95 0)
 			(layer "User.2")
 			(uuid "a0523a32-2dfc-4df2-a189-f0390c99a3fd")
@@ -1176,7 +1176,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "0.75"
+		(gr_text "750"
 			(at 76.955 130.175 90)
 			(layer "User.2")
 			(uuid "a3073d2b-b70c-4959-bfe4-b201e85f8e72")
@@ -1214,7 +1214,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "4"
+		(gr_text "4000"
 			(at 56 101.6 90)
 			(layer "User.2")
 			(uuid "a40902d5-136a-4697-b237-2c8db3cfa1dd")
@@ -1252,7 +1252,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "1"
+		(gr_text "1000"
 			(at 78.105 55.245 90)
 			(layer "User.2")
 			(uuid "acad6b06-6efc-4691-a959-0e7f7e7bce90")

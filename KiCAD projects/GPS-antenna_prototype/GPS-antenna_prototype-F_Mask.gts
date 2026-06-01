@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,10.0.0*%
-%TF.CreationDate,2026-04-11T16:33:57-07:00*%
+%TF.CreationDate,2026-05-15T13:08:09-07:00*%
 %TF.ProjectId,GPS-antenna_prototype,4750532d-616e-4746-956e-6e615f70726f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Top*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.0) date 2026-04-11 16:33:57*
+G04 Created by KiCad (PCBNEW 10.0.0) date 2026-05-15 13:08:09*
 %MOMM*%
 %LPD*%
 G01*
@@ -23,10 +23,10 @@ G04 Aperture macros list end*
 G04 APERTURE END LIST*
 D10*
 %TO.C,J1*%
-X82200000Y-102384600D03*
+X82200000Y-103990000D03*
 D11*
-X82200000Y-99184600D03*
+X82200000Y-100790000D03*
 D12*
-X82700000Y-100784600D03*
+X82700000Y-102390000D03*
 %TD*%
 M02*
