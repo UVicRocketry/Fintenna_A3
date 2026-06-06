@@ -1,0 +1,160 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002026, month=000000000004, day=000000000003, hour=000000000003, min=000000000007, sec=000000000042)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000000000, lin=000000000001, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign2'
+	VersionID=457
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=1396
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'65000mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=567)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'65mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'30mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=563)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'65mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'34mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=564)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'65mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=565)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'68mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=723)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'0mm\' $FeedX=\'70mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'30mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=562)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'10mm\' $FeedX=\'75mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=568)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'10mm\' $FeedX=\'77mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'22mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=350)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'10mm\' $FeedX=\'77mm\' $FeedY=\'25mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'22mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=349)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'10mm\' $FeedX=\'77mm\' $FeedY=\'25mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=348)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'12mm\' $FeedX=\'77mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=343)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'12mm\' $FeedX=\'77mm\' $FeedY=\'25mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=346)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'14mm\' $FeedX=\'77mm\' $FeedY=\'25mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=347)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'15mm\' $FeedX=\'77mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=342)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'15mm\' $FeedX=\'80mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=573)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'20mm\' $FeedX=\'56mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=334)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'20mm\' $FeedX=\'65mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=335)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'20mm\' $FeedX=\'75mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=336)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'20mm\' $FeedX=\'77mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=341)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'20mm\' $FeedX=\'80mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=337)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'20mm\' $FeedX=\'85mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'10mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=570)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'20mm\' $FeedX=\'85mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'20mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=571)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'20mm\' $FeedX=\'85mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'25mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=572)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'20mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'35.928125000000001mm\' $RadWidth=\'3mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=815)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $Radius=\'73mm\' $RadLen=\'37mm\' $RadWidth=\'4mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=1390)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'10mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=326)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=327)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'42mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=318)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'3mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'42mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=319)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'3mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=324)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'3mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'42mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=320)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'3mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=321)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'65mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'35mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=566)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'70mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'30mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=561)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'77mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'18mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=559)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'77mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'22mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=558)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'5mm\' $FeedX=\'77mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'30mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=560)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'8.75mm\' $FeedX=\'73.750000000000014mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'30.3125mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=569)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'8mm\' $FeedX=\'77mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=344)
+		Map(V='$Angle=\'0deg\' $FeedOffset=\'8mm\' $FeedX=\'77mm\' $FeedY=\'25mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=345)
+		Map(V='$Angle=\'10deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=329)
+		Map(V='$Angle=\'10deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'3mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=325)
+		Map(V='$Angle=\'10deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'3mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=322)
+		Map(V='$Angle=\'12deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=330)
+		Map(V='$Angle=\'13deg\' $FeedOffset=\'20mm\' $FeedX=\'56mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=333)
+		Map(V='$Angle=\'13deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=331)
+		Map(V='$Angle=\'13deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=332)
+		Map(V='$Angle=\'20deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=328)
+		Map(V='$Angle=\'20deg\' $FeedOffset=\'5mm\' $FeedX=\'56mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'42mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=317)
+		Map(V='$Angle=\'20deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=314)
+		Map(V='$Angle=\'20deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'42mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=316)
+		Map(V='$Angle=\'20deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=315)
+		Map(V='$Angle=\'20deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'3mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'44mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=323)
+		Map(V='$Angle=\'29.999999999999996deg\' $FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=313)
+		Map(V='$Angle=\'5deg\' $FeedOffset=\'20mm\' $FeedX=\'77mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=340)
+		Map(V='$Angle=\'5deg\' $FeedOffset=\'20mm\' $FeedX=\'77mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=339)
+		Map(V='$Angle=\'5deg\' $FeedOffset=\'20mm\' $FeedX=\'80mm\' $FeedY=\'15mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=338)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'58mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=294)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'58mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'46mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=296)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'58mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'47mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=295)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'58mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=293)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'58mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=297)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=292)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=240)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'62mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=291)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'62mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=298)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'64mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'2mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=301)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'64mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=299)
+		Map(V='$FeedOffset=\'0mm\' $FeedX=\'64mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'2mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=300)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'55mm\' $FeedY=\'0mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=307)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'55mm\' $FeedY=\'0mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=306)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'58mm\' $FeedY=\'0mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=309)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'58mm\' $FeedY=\'0mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=308)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=238)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=239)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'64mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'2mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=302)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'68mm\' $FeedY=\'0mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'2mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=304)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'68mm\' $FeedY=\'0mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'2mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=305)
+		Map(V='$FeedOffset=\'10mm\' $FeedX=\'68mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'2mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=303)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=285)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=280)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.20000000000000001mm\' $TESTwidth=\'1.5mm\'', ID=273)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.22mm\' $TESTwidth=\'1.5mm\'', ID=271)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.25mm\' $TESTwidth=\'1.5mm\'', ID=269)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'0.90000000000000002mm\'', ID=265)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=242)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.2mm\'', ID=243)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.5mm\'', ID=267)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1mm\'', ID=261)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.40000000000000002mm\' $TESTwidth=\'1.3mm\'', ID=251)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'62mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=290)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'65mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=289)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'65mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=288)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'67mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=287)
+		Map(V='$FeedOffset=\'4mm\' $FeedX=\'70mm\' $FeedY=\'5mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $RadWidth=\'1mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=286)
+		Map(V='$FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'0mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=310)
+		Map(V='$FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'20mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=312)
+		Map(V='$FeedOffset=\'5mm\' $FeedX=\'58mm\' $FeedY=\'30mm\' $LineGap=\'0.19mm\' $LineWidth=\'1.5mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'1.5mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=311)
+		Map(V='$FeedOffset=\'5mm\' $FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'45mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=241)
+		Map(V='$FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.22mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1mm\' $TESTgap=\'0.22mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=60)
+		Map(V='$FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.22mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=201)
+		Map(V='$FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.22mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1mm\' $TESTgap=\'0.40000000000000002mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=232)
+		Map(V='$FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'26mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=237)
+		Map(V='$FeedX=\'60mm\' $FeedY=\'5mm\' $LineGap=\'0.29999999999999999mm\' $LineWidth=\'1.1000000000000001mm\' $Radius=\'73mm\' $RadLen=\'40mm\' $RadWidth=\'1mm\' $TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', ID=236)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=350, Ver=457, Dir='DV350_V457.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=54
+	$begin 'NextAssemVersionID'
+		NextUniqueID=55
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MeshImprintMap'
+		MI(VID=350, Ver=457, MI='DV350_V457.Imprint.idmap')
+	$end 'MeshImprintMap'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=53
+			VIDMap('$TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', 281, '$TESTgap=\'0.20000000000000001mm\' $TESTwidth=\'1.5mm\'', 274, '$TESTgap=\'0.22mm\' $TESTwidth=\'1.1000000000000001mm\'', 119, '$TESTgap=\'0.22mm\' $TESTwidth=\'1.5mm\'', 272, '$TESTgap=\'0.25mm\' $TESTwidth=\'1.5mm\'', 270, '$TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'0.90000000000000002mm\'', 266, '$TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.1000000000000001mm\'', 202, '$TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.2mm\'', 244, '$TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1.5mm\'', 268, '$TESTgap=\'0.29999999999999999mm\' $TESTwidth=\'1mm\'', 262, '$TESTgap=\'0.40000000000000002mm\' $TESTwidth=\'1.1000000000000001mm\'', 233, '$TESTgap=\'0.40000000000000002mm\' $TESTwidth=\'1.3mm\'', 252)
+			DM(VID=281, Ver=53, Dir='NDV281_V53.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=350, Ver=457, Dir='DV350_MI0_V457.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=0
+$end 'SolutionBlock1'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=57, Instance=\'SetupDefinition\', Solution=-1, VersionID=457)'='SolutionBlock14'
+	'SolutionKey(SimSetup=57, Instance=\'SolutionDefinition\', Solution=58, VersionID=457)'='SolutionBlock11'
+	'SolutionKey(SimSetup=57, Instance=\'SolutionDefinition\', Solution=59, VersionID=457)'='SolutionBlock12'
+	'SolutionKey(SimSetup=57, Instance=\'SolutionDefinition\', Solution=63, VersionID=457)'='SolutionBlock13'
+$end 'BlockMapName'
