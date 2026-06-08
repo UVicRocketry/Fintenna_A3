@@ -1,260 +1,95 @@
 $begin '$base_index$'
   $begin 'properties'
     all_levels=000000000000
-    time(year=000000002026, month=000000000006, day=000000000002, hour=000000000021, min=000000000049, sec=000000000015)
+    time(year=000000002026, month=000000000006, day=000000000006, hour=000000000004, min=000000000025, sec=000000000048)
     version=000000000000
   $end 'properties'
   $begin '$base_index$'
-    $index$(pos=000000023552, lin=000000000019, lvl=000000000000)
+    $index$(pos=000000013155, lin=000000000239, lvl=000000000000)
   $end '$base_index$'
 $end '$base_index$'
-$begin 'SolutionBlock163'
+$begin 'SolutionBlock45'
 	SimSetupID=117
 	SimSetupName='Setup1'
-	VersionID=4911
+	VersionID=6048
 	$begin 'EmConvergenceData'
-		Vmap(4020, 4152, 4223, 4249, 4437, 4463, 4519, 4550, 4605, 4636, 4741, 4774, 4828, 4861, 4911, 4944)
-		EmConv(VID=3463, Ver=4911, EmConv='DV3463_S117_V4944.EMConvData')
+		EmConv(VID=5454, Ver=6048, EmConv='DV5454_S117_V6048.EMConvData')
 	$end 'EmConvergenceData'
 	IsImported=false
 	IsTable=false
 	SolveSetupID=0
 	$begin 'CurrMeshes'
-		Vmap(4020, 4153, 4223, 4233, 4437, 4447, 4519, 4529, 4605, 4615, 4741, 4751, 4828, 4838, 4911, 4921)
-		M(VID=3463, Ver=4911, Dir='DV3463_S117_V4921.cmesh/')
+		M(VID=5454, Ver=6048, Dir='DV5454_S117_V6048.cmesh/')
 	$end 'CurrMeshes'
-	MeshAssemVersionID=548
+	MeshAssemVersionID=30
 	$begin 'NextAssemVersionID'
-		NextUniqueID=549
+		NextUniqueID=31
 		MoveBackwards=false
 	$end 'NextAssemVersionID'
 	$begin 'CurrentMeshG3DErrorDir'
-		Vmap(4020, -1, 4223, 4247, 4437, 4461, 4519, 4548, 4605, 4634, 4741, 4772, 4828, 4859, 4911, 4942)
-		ME(VID=3463, Ver=4911, Dir='DV3463_S117_V4911.g3derr/')
+		ME(VID=5454, Ver=6048, Dir='DV5454_S117_V6048.g3derr/')
 	$end 'CurrentMeshG3DErrorDir'
 	$begin 'ADP'
 		$begin 'SubData'
-			ID=4
-			Vmap(4437, 4516, 4519, 4539, 4605, 4625, 4741, 4761, 4828, 4848, 4911, 4931)
-			ADP(VID=3463, Ver=4911, Dir='DV3463_S117_ADP4_V4931.sd/')
+			ID=5
+			ADP(VID=5454, Ver=6048, Dir='DV5454_S117_ADP5_V6048.sd/')
 		$end 'SubData'
 	$end 'ADP'
 	$begin 'SU'
 		$begin 'SubData'
 			ID=1
-			Vmap(4020, 4155, 4223, 4240, 4437, 4454, 4519, 4541, 4605, 4627, 4741, 4764, 4828, 4851, 4911, 4934)
-			SU(VID=3463, Ver=4911, File='DV3463_S117_SD1_V4934.su')
+			SU(VID=5454, Ver=6048, File='DV5454_S117_SD1_V6048.su')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=2
-			Vmap(4020, 4156, 4223, 4241, 4437, 4455, 4519, 4542, 4605, 4628, 4741, 4765, 4828, 4852, 4911, 4935)
-			SU(VID=3463, Ver=4911, File='DV3463_S117_SD2_V4935.su')
+			SU(VID=5454, Ver=6048, File='DV5454_S117_SD2_V6048.su')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=3
-			Vmap(4020, 4157, 4223, 4242, 4437, 4456, 4519, 4543, 4605, 4629, 4741, 4766, 4828, 4853, 4911, 4936)
-			SU(VID=3463, Ver=4911, File='DV3463_S117_SD3_V4936.su')
+			SU(VID=5454, Ver=6048, File='DV5454_S117_SD3_V6048.su')
 		$end 'SubData'
 		$begin 'SubData'
 			ID=4
-			Vmap(4020, 4158, 4223, 4243, 4437, 4457, 4519, 4544, 4605, 4630, 4741, 4767, 4828, 4854, 4911, 4937)
-			SU(VID=3463, Ver=4911, File='DV3463_S117_SD4_V4937.su')
+			SU(VID=5454, Ver=6048, File='DV5454_S117_SD4_V6048.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			SU(VID=5454, Ver=6048, File='DV5454_S117_SD5_V6048.su')
 		$end 'SubData'
 	$end 'SU'
 	$begin 'WaveAdapt'
-		WA(VID=3463, Ver=4911, A=1)
+		WA(VID=5454, Ver=6048, A=1)
 	$end 'WaveAdapt'
 	$begin 'LastPassNumbers'
-		LP(VID=3463, Ver=4911, P=4)
+		LP(VID=5454, Ver=6048, P=5)
 	$end 'LastPassNumbers'
 	$begin 'Profiles'
-		Vmap(4020, 4162, 4223, 4248, 4437, 4462, 4519, 4549, 4605, 4635, 4741, 4773, 4828, 4860, 4911, 4943)
-		P(VID=3463, Ver=4911, File='DV3463_S117_V4943.profile')
+		P(VID=5454, Ver=6048, File='DV5454_S117_V6048.profile')
 	$end 'Profiles'
 	$begin 'MI'
 		$begin 'SubData'
 			ID=0
-			Vmap(4020, 4163, 4223, 4255, 4437, 4469, 4519, 4556, 4605, 4642, 4741, 4780, 4828, 4867, 4911, 4950)
-			MI(VID=3463, Ver=4911, Dir='DV3463_S117_MI0_V4950.sd/')
+			MI(VID=5454, Ver=6048, Dir='DV5454_S117_MI0_V6048.sd/')
 		$end 'SubData'
 	$end 'MI'
-$end 'SolutionBlock163'
+$end 'SolutionBlock45'
 $begin 'BlockMapName'
 	FileHeader='SolutionBlock1'
-	'SolutionKey(SimSetup=117, Instance=\'SetupDefinition\', Solution=-1, VersionID=4911)'='SolutionBlock163'
-	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=118, VersionID=4911)'='SolutionBlock160'
-	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=119, VersionID=4911)'='SolutionBlock161'
-	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=123, VersionID=4911)'='SolutionBlock162'
+	'SolutionKey(SimSetup=117, Instance=\'SetupDefinition\', Solution=-1, VersionID=6048)'='SolutionBlock45'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=118, VersionID=6048)'='SolutionBlock42'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=119, VersionID=6048)'='SolutionBlock43'
+	'SolutionKey(SimSetup=117, Instance=\'SolutionDefinition\', Solution=123, VersionID=6048)'='SolutionBlock44'
 $end 'BlockMapName'
-$begin 'SolutionBlock1'
-	ProductName=''
-	CircuitName='HFSSDesign3'
-	VersionID=4911
-	PostProcess=false
-	LossLess=true
-	NextUniqueID=4994
-	MoveBackwards=false
-	$begin 'VariationIDs'
-		Map(V='$BandSpacing=\'101.59999999999999mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2211)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'11.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2968)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'11mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2970)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'11mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2977)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2304)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2571)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'24mm\'', ID=2570)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2975)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2943)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2966)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2956)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2941)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2964)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2962)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2935)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2937)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2960)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2939)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2963)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'54mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2980)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.25mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=3461)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=3459)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.75mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=3455)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=3457)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=3450)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=3463)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2984)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2982)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2947)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2945)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2951)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2949)
-		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=2953)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1996)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2003)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=2001)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1902)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1994)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'20mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1284)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'6mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=120)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=213)
-		Map(V='$Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'20mm\'', ID=1900)
-	$end 'VariationIDs'
-	$begin 'LinkedDataList'
-	$end 'LinkedDataList'
-	$begin 'InitialMeshes'
-		Vmap(4020, 4151, 4223, 4225, 4437, 4439, 4519, 4521, 4605, 4607, 4741, 4743, 4828, 4830, 4911, 4913)
-		M(VID=3463, Ver=4911, Dir='DV3463_V4913.imesh/')
-	$end 'InitialMeshes'
-	MeshAssemVersionID=630
-	$begin 'NextAssemVersionID'
-		NextUniqueID=631
-		MoveBackwards=false
-	$end 'NextAssemVersionID'
-	$begin 'MeshImprintMap'
-		Vmap(4020, 4152, 4223, 4229, 4437, 4443, 4519, 4525, 4605, 4611, 4741, 4747, 4828, 4834, 4911, 4917)
-		MI(VID=3463, Ver=4911, MI='DV3463_V4911.Imprint.idmap')
-	$end 'MeshImprintMap'
-	$begin 'DefinitionMeshes'
-		$begin 'DefMeshes_Comp-1'
-			DefinitionID=-1
-			VersionID=629
-			VIDMap('$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'11.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $StubLen=\'22mm\'', 2969, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'11mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $StubLen=\'22mm\'', 2971, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'11mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $StubLen=\'22mm\'', 2978, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $StubLen=\'20mm\'', 2306, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $StubLen=\'22mm\'', 2976, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $StubLen=\'20mm\'', 2944, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $StubLen=\'22mm\'', 2967, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $StubLen=\'22mm\'', 2957, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $StubLen=\'20mm\'', 2942, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $StubLen=\'22mm\'', 2965, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $StubLen=\'20mm\'', 2936, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $StubLen=\'20mm\'', 2938, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $StubLen=\'22mm\'', 2961, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $StubLen=\'20mm\'', 2940, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $StubLen=\'22mm\'', 2979, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'54mm\' $StubLen=\'22mm\'', 2981, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.25mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $StubLen=\'22mm\'', 3462, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $StubLen=\'22mm\'', 3460, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.75mm\' $StubLen=\'22mm\'', 3456, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51mm\' $StubLen=\'22mm\'', 3458, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $StubLen=\'22mm\'', 3451, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $StubLen=\'22mm\'', 3464, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51mm\' $StubLen=\'22mm\'', 2985, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $StubLen=\'22mm\'', 2983, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $StubLen=\'20mm\'', 2948, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $StubLen=\'20mm\'', 2946, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $StubLen=\'20mm\'', 2952, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $StubLen=\'20mm\'', 2950, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $StubLen=\'22mm\'', 2954, '$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'48mm\' $StubLen=\'20mm\'', 1997, '$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'49.5mm\' $StubLen=\'20mm\'', 2004, '$Chamfer=\'8mm\' $FeedGap=\'12.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'50mm\' $StubLen=\'20mm\'', 2002, '$Chamfer=\'8mm\' $FeedGap=\'13.5mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $StubLen=\'20mm\'', 1991, '$Chamfer=\'8mm\' $FeedGap=\'13mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'52mm\' $StubLen=\'20mm\'', 1995, '$Chamfer=\'8mm\' $FeedGap=\'14.199999999999999mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'62mm\' $StubLen=\'20mm\'', 388, '$Chamfer=\'8mm\' $FeedGap=\'14mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'58mm\' $StubLen=\'20mm\'', 1901)
-			DM(VID=3464, Ver=629, Dir='NDV3464_V629.dmesh/')
-		$end 'DefMeshes_Comp-1'
-	$end 'DefinitionMeshes'
-	$begin 'MI'
-		$begin 'SubData'
-			ID=0
-			Vmap(4020, 4154, 4223, 4232, 4437, 4446, 4519, 4528, 4605, 4614, 4741, 4750, 4828, 4837, 4911, 4920)
-			MI(VID=3463, Ver=4911, Dir='DV3463_MI0_V4920.sd/')
-		$end 'SubData'
-	$end 'MI'
-	VersionID2=4912
-$end 'SolutionBlock1'
-$begin 'SolutionBlock161'
-	SolutionName='LastAdaptive'
-	SolutionID=119
-	V=4911
-	$begin 'States'
-		F(VID=3463, Ver=4911)
-	$end 'States'
-	$begin 'Definition'
-		SamplingInterpolation=false
-		Frequencies(915000000)
-		SolutionType=6
-		CenterFreq=0
-	$end 'Definition'
-	IsImported=false
-	IsTable=false
-	IsMatrixDataTable=false
-	SweepID=-1
-	KeepAllFastSweepFields=false
-	$begin 'M'
-		$begin 'SubData'
-			ID=0
-			Vmap(4020, 4169, 4223, 4272, 4437, 4486, 4519, 4573, 4605, 4659, 4685, 4704, 4741, 4798, 4828, 4885, 4911, 4968)
-			M(VID=3463, Ver=4911, File='DV3463_SOL119_M0_V4968.sd')
-		$end 'SubData'
-	$end 'M'
-	$begin 'Fields'
-		Vmap(4020, 4170, 4223, 4273, 4437, 4487, 4519, 4574, 4605, 4660, 4685, 4705, 4741, 4799, 4828, 4886, 4911, 4969)
-		IDDblMap(1658, 915000000)
-		$begin 'DataMap'
-			VID=3463
-			Ver=4911
-			F(DblID=1658, Dir='DV3463_S119_V4969_F1658/')
-		$end 'DataMap'
-	$end 'Fields'
-$end 'SolutionBlock161'
-$begin 'SolutionBlock160'
-	SolutionName='AdaptivePass'
-	SolutionID=118
-	V=4911
-	$begin 'States'
-		F(VID=3463, Ver=4911)
-	$end 'States'
-	$begin 'Definition'
-		SamplingInterpolation=false
-		Frequencies(915000000)
-		SolutionType=6
-		CenterFreq=0
-	$end 'Definition'
-	IsImported=false
-	IsTable=false
-	IsMatrixDataTable=false
-	SweepID=-1
-	KeepAllFastSweepFields=false
-	$begin 'M'
-		$begin 'SubData'
-			ID=1
-			Vmap(4020, 4164, 4223, 4256, 4437, 4470, 4519, 4557, 4605, 4643, 4685, 4688, 4741, 4781, 4828, 4868, 4911, 4951)
-			M(VID=3463, Ver=4911, File='DV3463_SOL118_M1_V4951.sd')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=2
-			Vmap(4020, 4165, 4223, 4257, 4437, 4471, 4519, 4558, 4605, 4644, 4685, 4689, 4741, 4782, 4828, 4869, 4911, 4952)
-			M(VID=3463, Ver=4911, File='DV3463_SOL118_M2_V4952.sd')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=3
-			Vmap(4020, 4166, 4223, 4258, 4437, 4472, 4519, 4559, 4605, 4645, 4685, 4690, 4741, 4783, 4828, 4870, 4911, 4953)
-			M(VID=3463, Ver=4911, File='DV3463_SOL118_M3_V4953.sd')
-		$end 'SubData'
-		$begin 'SubData'
-			ID=4
-			Vmap(4020, 4167, 4223, 4259, 4437, 4473, 4519, 4560, 4605, 4646, 4685, 4691, 4741, 4784, 4828, 4871, 4911, 4954)
-			M(VID=3463, Ver=4911, File='DV3463_SOL118_M4_V4954.sd')
-		$end 'SubData'
-	$end 'M'
-$end 'SolutionBlock160'
-$begin 'SolutionBlock162'
+$begin 'SolutionBlock44'
 	SolutionName='Sweep'
 	SolutionID=123
-	V=4911
+	V=6048
 	$begin 'States'
+		F(VID=5454, Ver=6048)
 	$end 'States'
 	$begin 'Definition'
 		SamplingInterpolation=false
-		Frequencies(700000000, 702010050.2512562, 704020100.5025126, 706030150.7537688, 708040201.0050251, 710050251.2562814, 712060301.5075377, 714070351.758794, 716080402.0100503, 718090452.2613065, 720100502.5125629, 722110552.7638191, 724120603.0150753, 726130653.2663317, 728140703.5175879, 730150753.7688442, 732160804.0201005, 734170854.2713568, 736180904.522613, 738190954.7738694, 740201005.0251256, 742211055.276382, 744221105.5276382, 746231155.7788944, 748241206.0301508, 750251256.281407, 752261306.5326633, 754271356.7839196, 756281407.0351759, 758291457.2864321, 760301507.5376885, 762311557.7889447, 764321608.0402009, 766331658.2914573, 768341708.5427135, 770351758.7939699, 772361809.0452261, 774371859.2964824, 776381909.5477387, 778391959.798995, 780402010.0502512, 782412060.3015076, 784422110.5527638, 786432160.8040202, 788442211.0552764, 790452261.3065326, 792462311.557789, 794472361.8090452, 796482412.0603015, 798492462.3115578, 800502512.5628141, 802512562.8140703, 804522613.0653267, 806532663.3165829, 808542713.5678391, 810552763.8190955, 812562814.0703517, 814572864.3216081, 816582914.5728643, 818592964.8241206, 820603015.0753769, 822613065.3266332, 824623115.5778894, 826633165.8291457, 828643216.080402, 830653266.3316584, 832663316.5829146, 834673366.8341708, 836683417.0854272, 838693467.3366834, 840703517.5879397, 842713567.839196, 844723618.0904522, 846733668.3417085, 848743718.5929649, 850753768.8442211, 852763819.0954773, 854773869.3467337, 856783919.5979899, 858793969.8492463, 860804020.1005025, 862814070.3517588, 864824120.6030151, 866834170.8542714, 868844221.1055276, 870854271.3567839, 872864321.6080402, 874874371.8592966, 876884422.1105528, 878894472.361809, 880904522.6130654, 882914572.8643216, 884924623.1155779, 886934673.3668342, 888944723.6180904, 890954773.8693467, 892964824.1206031, 894974874.3718593, 896984924.6231155, 898994974.8743719, 901005025.1256281, 903015075.3768845, 905025125.6281407, 907035175.879397, 909045226.1306533, 911055276.3819096, 913065326.6331658, 915075376.8844221, 917085427.1356784, 919095477.3869348, 921105527.638191, 923115577.8894472, 925125628.1407036, 927135678.3919598, 929145728.6432161, 931155778.8944724, 933165829.1457286, 935175879.3969849, 937185929.6482413, 939195979.8994975, 941206030.1507537, 943216080.4020101, 945226130.6532663, 947236180.9045227, 949246231.1557789, 951256281.4070352, 953266331.6582915, 955276381.9095478, 957286432.160804, 959296482.4120603, 961306532.6633166, 963316582.9145728, 965326633.1658292, 967336683.4170854, 969346733.6683416, 971356783.919598, 973366834.1708543, 975376884.4221106, 977386934.6733668, 979396984.9246231, 981407035.1758795, 983417085.4271357, 985427135.6783919, 987437185.9296483, 989447236.1809045, 991457286.4321609, 993467336.6834171, 995477386.9346733, 997487437.1859297, 999497487.437186, 1001507537.688442, 1003517587.939698, 1005527638.190955, 1007537688.442211, 1009547738.693467, 1011557788.944724, 1013567839.19598, 1015577889.447236, 1017587939.698493, 1019597989.949749, 1021608040.201005, 1023618090.452261, 1025628140.703518, 1027638190.954774, 1029648241.20603, 1031658291.457286, 1033668341.708543, 1035678391.959799, 1037688442.211055, 1039698492.462312, 1041708542.713568, 1043718592.964824, 1045728643.21608, 1047738693.467337, 1049748743.718593, 1051758793.969849, 1053768844.221106, 1055778894.472362, 1057788944.723618, 1059798994.974874, 1061809045.226131, 1063819095.477387, 1065829145.728643, 1067839195.9799, 1069849246.231156, 1071859296.482412, 1073869346.733668, 1075879396.984925, 1077889447.236181, 1079899497.487437, 1081909547.738693, 1083919597.98995, 1085929648.241206, 1087939698.492462, 1089949748.743719, 1091959798.994975, 1093969849.246231, 1095979899.497488, 1097989949.748744, 1100000000)
+		Frequencies(800000000, 801005025.1256281, 802010050.2512562, 803015075.3768845, 804020100.5025126, 805025125.6281407, 806030150.7537688, 807035175.879397, 808040201.0050251, 809045226.1306533, 810050251.2562814, 811055276.3819096, 812060301.5075377, 813065326.6331658, 814070351.758794, 815075376.8844221, 816080402.0100503, 817085427.1356784, 818090452.2613065, 819095477.3869346, 820100502.5125629, 821105527.638191, 822110552.7638191, 823115577.8894472, 824120603.0150753, 825125628.1407036, 826130653.2663317, 827135678.3919598, 828140703.5175879, 829145728.6432161, 830150753.7688442, 831155778.8944724, 832160804.0201005, 833165829.1457286, 834170854.2713568, 835175879.3969849, 836180904.522613, 837185929.6482412, 838190954.7738694, 839195979.8994975, 840201005.0251256, 841206030.1507537, 842211055.276382, 843216080.4020101, 844221105.5276382, 845226130.6532663, 846231155.7788944, 847236180.9045227, 848241206.0301508, 849246231.1557789, 850251256.281407, 851256281.4070352, 852261306.5326633, 853266331.6582915, 854271356.7839196, 855276381.9095477, 856281407.0351759, 857286432.160804, 858291457.2864321, 859296482.4120603, 860301507.5376885, 861306532.6633166, 862311557.7889447, 863316582.9145728, 864321608.0402009, 865326633.1658292, 866331658.2914573, 867336683.4170854, 868341708.5427135, 869346733.6683418, 870351758.7939699, 871356783.919598, 872361809.0452261, 873366834.1708543, 874371859.2964824, 875376884.4221106, 876381909.5477387, 877386934.6733668, 878391959.798995, 879396984.9246231, 880402010.0502512, 881407035.1758794, 882412060.3015076, 883417085.4271357, 884422110.5527638, 885427135.6783919, 886432160.8040202, 887437185.9296483, 888442211.0552764, 889447236.1809045, 890452261.3065326, 891457286.4321609, 892462311.557789, 893467336.6834171, 894472361.8090452, 895477386.9346733, 896482412.0603015, 897487437.1859297, 898492462.3115578, 899497487.4371859, 900502512.5628141, 901507537.6884422, 902512562.8140703, 903517587.9396985, 904522613.0653267, 905527638.1909548, 906532663.3165829, 907537688.442211, 908542713.5678391, 909547738.6934674, 910552763.8190955, 911557788.9447236, 912562814.0703517, 913567839.19598, 914572864.3216081, 915577889.4472362, 916582914.5728643, 917587939.6984925, 918592964.8241206, 919597989.9497488, 920603015.0753769, 921608040.201005, 922613065.3266332, 923618090.4522613, 924623115.5778894, 925628140.7035176, 926633165.8291457, 927638190.9547739, 928643216.080402, 929648241.2060301, 930653266.3316584, 931658291.4572865, 932663316.5829146, 933668341.7085427, 934673366.8341708, 935678391.9597991, 936683417.0854272, 937688442.2110553, 938693467.3366834, 939698492.4623115, 940703517.5879397, 941708542.7135679, 942713567.839196, 943718592.9648242, 944723618.0904522, 945728643.2160804, 946733668.3417085, 947738693.4673367, 948743718.5929649, 949748743.718593, 950753768.8442211, 951758793.9698492, 952763819.0954773, 953768844.2211056, 954773869.3467337, 955778894.4723618, 956783919.5979899, 957788944.723618, 958793969.8492463, 959798994.9748744, 960804020.1005025, 961809045.2261307, 962814070.3517588, 963819095.477387, 964824120.6030151, 965829145.7286432, 966834170.8542714, 967839195.9798995, 968844221.1055276, 969849246.2311558, 970854271.3567839, 971859296.4824121, 972864321.6080402, 973869346.7336683, 974874371.8592966, 975879396.9849247, 976884422.1105528, 977889447.2361809, 978894472.361809, 979899497.4874372, 980904522.6130654, 981909547.7386935, 982914572.8643216, 983919597.9899497, 984924623.1155779, 985929648.241206, 986934673.3668342, 987939698.4924623, 988944723.6180904, 989949748.7437186, 990954773.8693467, 991959798.9949749, 992964824.1206031, 993969849.2462312, 994974874.3718593, 995979899.4974874, 996984924.6231155, 997989949.7487438, 998994974.8743719, 1000000000)
 		SolutionType=5
 		CenterFreq=0
 	$end 'Definition'
@@ -263,16 +98,163 @@ $begin 'SolutionBlock162'
 	IsMatrixDataTable=false
 	SweepID=0
 	KeepAllFastSweepFields=false
-$end 'SolutionBlock162'
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=5454, Ver=6048, File='DV5454_SOL123_M0_V6048.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'TransientSolveStauts'
+		SS(VID=5454, Ver=6048, SS=1)
+	$end 'TransientSolveStauts'
+	$begin 'SolverUsage'
+		IDDblMap(5277, 1100000000, 5278, 700000000, 5279, 900000000, 5280, 800000000, 5283, 1000000000, 5284, 850000000, 5285, 750000000, 5286, 950000000, 5450, 725000000, 5451, 775000000, 5452, 825000000, 5453, 1050000000, 5456, 957500000, 5457, 907500000, 5458, 875000000, 5552, 812500000, 5553, 837500000, 5554, 978750000, 5555, 862500000)
+		$begin 'DataMap'
+			VID=5454
+			Ver=6048
+			SU(DblID=5280, SU='DV5454_S123_V6048_F5280_SU.txt')
+			SU(DblID=5452, SU='DV5454_S123_V6048_F5452_SU.txt')
+			SU(DblID=5284, SU='DV5454_S123_V6048_F5284_SU.txt')
+			SU(DblID=5458, SU='DV5454_S123_V6048_F5458_SU.txt')
+			SU(DblID=5279, SU='DV5454_S123_V6048_F5279_SU.txt')
+			SU(DblID=5457, SU='DV5454_S123_V6048_F5457_SU.txt')
+			SU(DblID=5456, SU='DV5454_S123_V6048_F5456_SU.txt')
+			SU(DblID=5283, SU='DV5454_S123_V6048_F5283_SU.txt')
+		$end 'DataMap'
+	$end 'SolverUsage'
+$end 'SolutionBlock44'
+$begin 'SolutionBlock42'
+	SolutionName='AdaptivePass'
+	SolutionID=118
+	V=6048
+	$begin 'States'
+		F(VID=5454, Ver=6048)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=1
+			M(VID=5454, Ver=6048, File='DV5454_SOL118_M1_V6048.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			M(VID=5454, Ver=6048, File='DV5454_SOL118_M2_V6048.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			M(VID=5454, Ver=6048, File='DV5454_SOL118_M3_V6048.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			M(VID=5454, Ver=6048, File='DV5454_SOL118_M4_V6048.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=5
+			M(VID=5454, Ver=6048, File='DV5454_SOL118_M5_V6048.sd')
+		$end 'SubData'
+	$end 'M'
+$end 'SolutionBlock42'
+$begin 'SolutionBlock43'
+	SolutionName='LastAdaptive'
+	SolutionID=119
+	V=6048
+	$begin 'States'
+		F(VID=5454, Ver=6048)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(915000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=5454, Ver=6048, File='DV5454_SOL119_M0_V6048.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		IDDblMap(5257, 915000000)
+		$begin 'DataMap'
+			VID=5454
+			Ver=6048
+			F(DblID=5257, Dir='DV5454_S119_V6048_F5257/')
+		$end 'DataMap'
+	$end 'Fields'
+$end 'SolutionBlock43'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign3'
+	VersionID=6048
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=6128
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5550)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5243)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53.5mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5459)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5454)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'27mm\'', ID=5546)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'15.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5461)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'16.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5543)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'16.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5548)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'19.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5556)
+		Map(V='$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'24.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $SizeMult=\'0.94864647732762697\' $StubLen=\'22mm\'', ID=5547)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=5454, Ver=6048, Dir='DV5454_V6048.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=32
+	$begin 'NextAssemVersionID'
+		NextUniqueID=33
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MeshImprintMap'
+		MI(VID=5454, Ver=6048, MI='DV5454_V6048.Imprint.idmap')
+	$end 'MeshImprintMap'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=31
+			VIDMap('$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'12.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $StubLen=\'22mm\'', 5551, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'51.5mm\' $StubLen=\'22mm\'', 5252, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53.5mm\' $StubLen=\'22mm\'', 5460, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $StubLen=\'22mm\'', 5455, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'16.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $StubLen=\'22mm\'', 5545, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'16.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'55mm\' $StubLen=\'22mm\'', 5549, '$BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'19.75mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'53mm\' $StubLen=\'22mm\'', 5557)
+			DM(VID=5455, Ver=31, Dir='NDV5455_V31.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=5454, Ver=6048, Dir='DV5454_MI0_V6048.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=6049
+$end 'SolutionBlock1'
 $begin '$index$'
 	$begin '$index$'
-		SolutionBlock162(pos=19444, lin=1, lvl=0)
-		SolutionBlock163(pos=370, lin=11, lvl=0)
-		SolutionBlock1(pos=3442, lin=89, lvl=0)
-		SolutionBlock161(pos=17249, lin=173, lvl=0)
-		SolutionBlock160(pos=18160, lin=208, lvl=0)
-		BlockMapName(pos=2931, lin=82, lvl=0)
+		SolutionBlock1(pos=9350, lin=190, lvl=0)
+		BlockMapName(pos=2020, lin=66, lvl=0)
+		SolutionBlock42(pos=7751, lin=116, lvl=0)
+		SolutionBlock43(pos=8672, lin=157, lvl=0)
+		SolutionBlock44(pos=2527, lin=73, lvl=0)
+		SolutionBlock45(pos=370, lin=1, lvl=0)
 		$base_index$(pos=0, lin=1, lvl=0)
-		$index$(pos=23552, lin=19, lvl=0)
+		$index$(pos=13155, lin=239, lvl=0)
 	$end '$index$'
 $end '$index$'
