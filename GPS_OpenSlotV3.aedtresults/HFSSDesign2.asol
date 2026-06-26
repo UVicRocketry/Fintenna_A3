@@ -1,0 +1,264 @@
+$begin '$base_index$'
+  $begin 'properties'
+    all_levels=000000000000
+    time(year=000000002026, month=000000000006, day=000000000026, hour=000000000013, min=000000000047, sec=000000000030)
+    version=000000000000
+  $end 'properties'
+  $begin '$base_index$'
+    $index$(pos=000000014230, lin=000000000242, lvl=000000000000)
+  $end '$base_index$'
+$end '$base_index$'
+$begin 'SolutionBlock56'
+	SimSetupID=1809
+	SimSetupName='Setup1'
+	VersionID=3122
+	$begin 'EmConvergenceData'
+		EmConv(VID=2869, Ver=3122, EmConv='DV2869_S1809_V3122.EMConvData')
+	$end 'EmConvergenceData'
+	IsImported=false
+	IsTable=false
+	SolveSetupID=1
+	$begin 'CurrMeshes'
+		M(VID=2869, Ver=3122, Dir='DV2869_S1809_V3122.cmesh/')
+	$end 'CurrMeshes'
+	MeshAssemVersionID=91
+	$begin 'NextAssemVersionID'
+		NextUniqueID=92
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'CurrentMeshG3DErrorDir'
+		ME(VID=2869, Ver=3122, Dir='DV2869_S1809_V3122.g3derr/')
+	$end 'CurrentMeshG3DErrorDir'
+	$begin 'ADP'
+		$begin 'SubData'
+			ID=4
+			ADP(VID=2869, Ver=3122, Dir='DV2869_S1809_ADP4_V3122.sd/')
+		$end 'SubData'
+	$end 'ADP'
+	$begin 'SU'
+		$begin 'SubData'
+			ID=1
+			SU(VID=2869, Ver=3122, File='DV2869_S1809_SD1_V3122.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			SU(VID=2869, Ver=3122, File='DV2869_S1809_SD2_V3122.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			SU(VID=2869, Ver=3122, File='DV2869_S1809_SD3_V3122.su')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			SU(VID=2869, Ver=3122, File='DV2869_S1809_SD4_V3122.su')
+		$end 'SubData'
+	$end 'SU'
+	$begin 'WaveAdapt'
+		WA(VID=2869, Ver=3122, A=1)
+	$end 'WaveAdapt'
+	$begin 'LastPassNumbers'
+		LP(VID=2869, Ver=3122, P=4)
+	$end 'LastPassNumbers'
+	$begin 'Profiles'
+		P(VID=2869, Ver=3122, File='DV2869_S1809_V3122.profile')
+	$end 'Profiles'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=2869, Ver=3122, Dir='DV2869_S1809_MI0_V3122.sd/')
+		$end 'SubData'
+	$end 'MI'
+$end 'SolutionBlock56'
+$begin 'BlockMapName'
+	FileHeader='SolutionBlock1'
+	'SolutionKey(SimSetup=1809, Instance=\'SetupDefinition\', Solution=-1, VersionID=3122)'='SolutionBlock56'
+	'SolutionKey(SimSetup=1809, Instance=\'SolutionDefinition\', Solution=1810, VersionID=3122)'='SolutionBlock53'
+	'SolutionKey(SimSetup=1809, Instance=\'SolutionDefinition\', Solution=1811, VersionID=3122)'='SolutionBlock54'
+	'SolutionKey(SimSetup=1809, Instance=\'SolutionDefinition\', Solution=1812, VersionID=3122)'='SolutionBlock55'
+$end 'BlockMapName'
+$begin 'SolutionBlock1'
+	ProductName=''
+	CircuitName='HFSSDesign2'
+	VersionID=3122
+	PostProcess=false
+	LossLess=true
+	NextUniqueID=3206
+	MoveBackwards=false
+	$begin 'VariationIDs'
+		Map(V='$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=1806)
+		Map(V='$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=2529)
+		Map(V='$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'39.5mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=2869)
+		Map(V='$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'39mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=2616)
+	$end 'VariationIDs'
+	$begin 'LinkedDataList'
+	$end 'LinkedDataList'
+	$begin 'InitialMeshes'
+		M(VID=2869, Ver=3122, Dir='DV2869_V3122.imesh/')
+	$end 'InitialMeshes'
+	MeshAssemVersionID=92
+	$begin 'NextAssemVersionID'
+		NextUniqueID=93
+		MoveBackwards=false
+	$end 'NextAssemVersionID'
+	$begin 'MeshImprintMap'
+		MI(VID=2869, Ver=3122, MI='DV2869_V3122.Imprint.idmap')
+	$end 'MeshImprintMap'
+	$begin 'DefinitionMeshes'
+		$begin 'DefMeshes_Comp-1'
+			DefinitionID=-1
+			VersionID=91
+			VIDMap('$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\'', 1951, '$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'38mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\'', 2611, '$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'39.5mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\'', 3035, '$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'39mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\'', 2701)
+			DM(VID=3035, Ver=91, Dir='NDV3035_V91.dmesh/')
+		$end 'DefMeshes_Comp-1'
+	$end 'DefinitionMeshes'
+	$begin 'MI'
+		$begin 'SubData'
+			ID=0
+			MI(VID=2869, Ver=3122, Dir='DV2869_MI0_V3122.sd/')
+		$end 'SubData'
+	$end 'MI'
+	VersionID2=3123
+$end 'SolutionBlock1'
+$begin 'SolutionBlock54'
+	SolutionName='LastAdaptive'
+	SolutionID=1811
+	V=3122
+	$begin 'States'
+		F(VID=2869, Ver=3122)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(1575000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=2869, Ver=3122, File='DV2869_SOL1811_M0_V3122.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		IDDblMap(1956, 1575000000, 2134, 1675000000)
+		$begin 'DataMap'
+			VID=2869
+			Ver=3122
+			F(DblID=1956, Dir='DV2869_S1811_V3122_F1956/')
+		$end 'DataMap'
+	$end 'Fields'
+$end 'SolutionBlock54'
+$begin 'SolutionBlock53'
+	SolutionName='AdaptivePass'
+	SolutionID=1810
+	V=3122
+	$begin 'States'
+		F(VID=2869, Ver=3122)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(1575000000)
+		SolutionType=6
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=-1
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=1
+			M(VID=2869, Ver=3122, File='DV2869_SOL1810_M1_V3122.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=2
+			M(VID=2869, Ver=3122, File='DV2869_SOL1810_M2_V3122.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=3
+			M(VID=2869, Ver=3122, File='DV2869_SOL1810_M3_V3122.sd')
+		$end 'SubData'
+		$begin 'SubData'
+			ID=4
+			M(VID=2869, Ver=3122, File='DV2869_SOL1810_M4_V3122.sd')
+		$end 'SubData'
+	$end 'M'
+$end 'SolutionBlock53'
+$begin 'SolutionBlock55'
+	SolutionName='Sweep'
+	SolutionID=1812
+	V=3122
+	$begin 'States'
+		F(VID=2869, Ver=3122)
+	$end 'States'
+	$begin 'Definition'
+		SamplingInterpolation=false
+		Frequencies(1440000000, 1442416107.38255, 1444832214.765101, 1447248322.147651, 1449664429.530201, 1452080536.912752, 1454496644.295302, 1456912751.677852, 1459328859.060403, 1461744966.442953, 1464161073.825503, 1466577181.208054, 1468993288.590604, 1471409395.973154, 1473825503.355705, 1476241610.738255, 1478657718.120805, 1481073825.503356, 1483489932.885906, 1485906040.268456, 1488322147.651007, 1490738255.033557, 1493154362.416107, 1495570469.798658, 1497986577.181208, 1500402684.563758, 1502818791.946309, 1505234899.328859, 1507651006.711409, 1510067114.09396, 1512483221.47651, 1514899328.85906, 1517315436.241611, 1519731543.624161, 1522147651.006711, 1524563758.389262, 1526979865.771812, 1529395973.154362, 1531812080.536913, 1534228187.919463, 1536644295.302013, 1539060402.684564, 1541476510.067114, 1543892617.449664, 1546308724.832215, 1548724832.214765, 1551140939.597315, 1553557046.979866, 1555973154.362416, 1558389261.744967, 1560805369.127517, 1563221476.510067, 1565637583.892617, 1568053691.275168, 1570469798.657718, 1572885906.040268, 1575302013.422819, 1577718120.805369, 1580134228.187919, 1582550335.57047, 1584966442.95302, 1587382550.33557, 1589798657.718121, 1592214765.100671, 1594630872.483222, 1597046979.865772, 1599463087.248322, 1601879194.630872, 1604295302.013423, 1606711409.395973, 1609127516.778523, 1611543624.161074, 1613959731.543624, 1616375838.926174, 1618791946.308725, 1621208053.691275, 1623624161.073826, 1626040268.456376, 1628456375.838926, 1630872483.221477, 1633288590.604027, 1635704697.986577, 1638120805.369128, 1640536912.751678, 1642953020.134228, 1645369127.516778, 1647785234.899329, 1650201342.281879, 1652617449.664429, 1655033557.04698, 1657449664.42953, 1659865771.812081, 1662281879.194631, 1664697986.577181, 1667114093.959732, 1669530201.342282, 1671946308.724832, 1674362416.107383, 1676778523.489933, 1679194630.872483, 1681610738.255033, 1684026845.637584, 1686442953.020134, 1688859060.402685, 1691275167.785235, 1693691275.167785, 1696107382.550336, 1698523489.932886, 1700939597.315436, 1703355704.697987, 1705771812.080537, 1708187919.463087, 1710604026.845638, 1713020134.228188, 1715436241.610738, 1717852348.993289, 1720268456.375839, 1722684563.758389, 1725100671.14094, 1727516778.52349, 1729932885.90604, 1732348993.288591, 1734765100.671141, 1737181208.053691, 1739597315.436242, 1742013422.818792, 1744429530.201342, 1746845637.583893, 1749261744.966443, 1751677852.348993, 1754093959.731544, 1756510067.114094, 1758926174.496644, 1761342281.879195, 1763758389.261745, 1766174496.644295, 1768590604.026846, 1771006711.409396, 1773422818.791946, 1775838926.174497, 1778255033.557047, 1780671140.939597, 1783087248.322148, 1785503355.704698, 1787919463.087248, 1790335570.469799, 1792751677.852349, 1795167785.234899, 1797583892.61745, 1800000000)
+		SolutionType=5
+		CenterFreq=0
+	$end 'Definition'
+	IsImported=false
+	IsTable=false
+	IsMatrixDataTable=false
+	SweepID=0
+	KeepAllFastSweepFields=false
+	$begin 'M'
+		$begin 'SubData'
+			ID=0
+			M(VID=2869, Ver=3122, File='DV2869_SOL1812_M0_V3122.sd')
+		$end 'SubData'
+	$end 'M'
+	$begin 'Fields'
+		IDDblMap(1970, 10000000000, 1971, 787500000, 1972, 5393750000, 1973, 3090625000, 1979, 7696875000, 1980, 4242187500, 1981, 1939062500, 1982, 6545312500, 1987, 5969531250, 1988, 7121093750, 1989, 3666406250, 1990, 8848437500, 1995, 9424218750, 1996, 8272656250, 1997, 3378515625, 1998, 2514843750, 2003, 2802734375, 2004, 2226953125, 2005, 1363281250, 2006, 4817968750, 2011, 1075390625, 2012, 5105859375, 2013, 4530078125, 2014, 1651171875, 2019, 1795117187.5, 2020, 1507226562.5, 2021, 3954296875, 2022, 931445312.5, 2027, 859472656.25, 2028, 1003417968.75, 2029, 1219335937.5, 2030, 3810351562.5, 2035, 6257421875, 2036, 4098242187.5, 2037, 6833203125, 2038, 5681640625, 2043, 5537695312.5, 2044, 5825585937.5, 2045, 9712109375, 2046, 5249804687.5, 2054, 7984765625, 2055, 8560546875, 2056, 7408984375, 2057, 4386132812.5, 2062, 7552929687.5, 2063, 1723144531.25, 2064, 7265039062.5, 2065, 4674023437.5, 2072, 8704492187.5, 2073, 3522460937.5, 2074, 8416601562.499999, 2075, 4961914062.5, 2080, 9136328125, 2081, 5033886718.75, 2082, 8128710937.5, 2083, 4889941406.25, 2098, 1800000000, 2099, 1440000000, 2100, 1620000000, 2101, 1530000000, 2106, 1710000000, 2107, 1575000000, 2108, 1485000000, 2109, 1665000000, 2110, 1597500000, 2111, 1552500000)
+		$begin 'DataMap'
+			VID=2869
+			Ver=3122
+			F(DblID=2099, Dir='DV2869_S1812_V3122_F2099/')
+			F(DblID=2108, Dir='DV2869_S1812_V3122_F2108/')
+			F(DblID=2101, Dir='DV2869_S1812_V3122_F2101/')
+			F(DblID=2111, Dir='DV2869_S1812_V3122_F2111/')
+			F(DblID=2107, Dir='DV2869_S1812_V3122_F2107/')
+			F(DblID=2110, Dir='DV2869_S1812_V3122_F2110/')
+			F(DblID=2100, Dir='DV2869_S1812_V3122_F2100/')
+			F(DblID=2109, Dir='DV2869_S1812_V3122_F2109/')
+			F(DblID=2106, Dir='DV2869_S1812_V3122_F2106/')
+			F(DblID=2098, Dir='DV2869_S1812_V3122_F2098/')
+		$end 'DataMap'
+	$end 'Fields'
+	$begin 'TransientSolveStauts'
+		SS(VID=2869, Ver=3122, SS=1)
+	$end 'TransientSolveStauts'
+	$begin 'SolverUsage'
+		IDDblMap(1974, 10000000000, 1975, 787500000, 1976, 5393750000, 1977, 3090625000, 1983, 7696875000, 1984, 4242187500, 1985, 1939062500, 1986, 6545312500, 1991, 5969531250, 1992, 7121093750, 1993, 3666406250, 1994, 8848437500, 1999, 9424218750, 2000, 8272656250, 2001, 3378515625, 2002, 2514843750, 2007, 2802734375, 2008, 2226953125, 2009, 1363281250, 2010, 4817968750, 2015, 1075390625, 2016, 5105859375, 2017, 4530078125, 2018, 1651171875, 2023, 1795117187.5, 2024, 1507226562.5, 2025, 3954296875, 2026, 931445312.5, 2031, 859472656.25, 2032, 1003417968.75, 2033, 1219335937.5, 2034, 3810351562.5, 2039, 6257421875, 2040, 4098242187.5, 2041, 6833203125, 2042, 5681640625, 2050, 5537695312.5, 2051, 5825585937.5, 2052, 9712109375, 2053, 5249804687.5, 2058, 7984765625, 2059, 8560546875, 2060, 7408984375, 2061, 4386132812.5, 2068, 7552929687.5, 2069, 1723144531.25, 2070, 7265039062.5, 2071, 4674023437.5, 2076, 8704492187.5, 2077, 3522460937.5, 2078, 8416601562.499999, 2079, 4961914062.5, 2084, 9136328125, 2085, 5033886718.75, 2086, 8128710937.5, 2087, 4889941406.25, 2102, 1800000000, 2103, 1440000000, 2104, 1620000000, 2105, 1530000000, 2112, 1710000000, 2113, 1597500000, 2114, 1552500000, 2115, 1485000000, 2138, 1575000000, 2139, 1665000000)
+		$begin 'DataMap'
+			VID=2869
+			Ver=3122
+			SU(DblID=2103, SU='DV2869_S1812_V3122_F2103_SU.txt')
+			SU(DblID=2115, SU='DV2869_S1812_V3122_F2115_SU.txt')
+			SU(DblID=2105, SU='DV2869_S1812_V3122_F2105_SU.txt')
+			SU(DblID=2114, SU='DV2869_S1812_V3122_F2114_SU.txt')
+			SU(DblID=2113, SU='DV2869_S1812_V3122_F2113_SU.txt')
+			SU(DblID=2104, SU='DV2869_S1812_V3122_F2104_SU.txt')
+			SU(DblID=2112, SU='DV2869_S1812_V3122_F2112_SU.txt')
+			SU(DblID=2102, SU='DV2869_S1812_V3122_F2102_SU.txt')
+		$end 'DataMap'
+	$end 'SolverUsage'
+$end 'SolutionBlock55'
+$begin '$index$'
+	$begin '$index$'
+		BlockMapName(pos=1928, lin=62, lvl=0)
+		SolutionBlock53(pos=6352, lin=145, lvl=0)
+		SolutionBlock54(pos=5651, lin=112, lvl=0)
+		SolutionBlock55(pos=7176, lin=182, lvl=0)
+		SolutionBlock56(pos=370, lin=1, lvl=0)
+		SolutionBlock1(pos=2442, lin=69, lvl=0)
+		$base_index$(pos=0, lin=1, lvl=0)
+		$index$(pos=14230, lin=242, lvl=0)
+	$end '$index$'
+$end '$index$'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
