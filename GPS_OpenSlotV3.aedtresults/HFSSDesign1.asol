@@ -1,11 +1,11 @@
 $begin '$base_index$'
   $begin 'properties'
     all_levels=000000000000
-    time(year=000000002026, month=000000000006, day=000000000026, hour=000000000013, min=000000000047, sec=000000000030)
+    time(year=000000002026, month=000000000006, day=000000000026, hour=000000000017, min=000000000057, sec=000000000035)
     version=000000000000
   $end 'properties'
   $begin '$base_index$'
-    $index$(pos=000000016668, lin=000000000160, lvl=000000000000)
+    $index$(pos=000000016975, lin=000000000161, lvl=000000000000)
   $end '$base_index$'
 $end '$base_index$'
 $begin 'SolutionBlock2'
@@ -151,10 +151,11 @@ $begin 'SolutionBlock1'
 	VersionID=199
 	PostProcess=false
 	LossLess=true
-	NextUniqueID=414
+	NextUniqueID=522
 	MoveBackwards=false
 	$begin 'VariationIDs'
 		Map(V='$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'37.200000000000003mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=289)
+		Map(V='$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'39.5mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\'', ID=458)
 	$end 'VariationIDs'
 	$begin 'LinkedDataList'
 	$end 'LinkedDataList'
@@ -179,6 +180,6 @@ $begin '$index$'
 		SolutionBlock7(pos=10447, lin=101, lvl=0)
 		SolutionBlock8(pos=15584, lin=119, lvl=0)
 		$base_index$(pos=0, lin=1, lvl=0)
-		$index$(pos=16668, lin=160, lvl=0)
+		$index$(pos=16975, lin=161, lvl=0)
 	$end '$index$'
 $end '$index$'

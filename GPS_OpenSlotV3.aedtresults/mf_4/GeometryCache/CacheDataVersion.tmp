@@ -1,9 +1,9 @@
 $begin 'CacheDataVersion'
-	DataVersion=-1
+	DataVersion=45
 $end 'CacheDataVersion'
 $begin 'VariableValues'
 	$Radius='73mm'
-	$RadLen='39.5mm'
+	$RadLen='(37.2+1.5) mm'
 	$RadWidth='4mm'
 	$FeedX='23mm'
 	$FeedY='20mm'
