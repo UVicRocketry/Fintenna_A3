@@ -1,7 +1,0 @@
-$begin 'ValidationCache'
-	$begin 'OneValidationResult'
-		Variation='$Angle=\'0deg\' $BandSpacing=\'127mm\' $Chamfer=\'8mm\' $FeedGap=\'14.75mm\' $FeedOffset=\'4.875mm\' $FeedX=\'23mm\' $FeedY=\'20mm\' $LineWidth=\'1.47mm\' $PlaneWidth=\'8mm\' $Radius=\'73mm\' $RadLen=\'38.700000000000003mm\' $RadWidth=\'4mm\' $StubLen=\'22mm\' $TESTgap=\'0.19mm\' $TESTwidth=\'1.5mm\''
-		Status=true
-		FileName='VI7E727184178278467318.tmp'
-	$end 'OneValidationResult'
-$end 'ValidationCache'
